@@ -1,0 +1,592 @@
+year,Accident title,Date,Location,Coordinates,Cause,Deaths,Latitude,Longitude,Causetype
+1833,Hightstown Rail Accident,"8, November, 1833","Cranbury, New Jersey","Cranbury, New Jersey",hot box causing axle to break,2,,,Technical Error
+1838,Harrow Rail Accident,"7, August, 1838","Harrow, Middlesex, England","Harrow, Middlesex, England",missing info,1,,,Cause information missing
+1840,Howden Rail Accident,"7, August, 1840","Howden, Yorkshire", 53.76681; -0.87632,inadequately secured load,5, 53.76681, -0.87632,Human Error
+1841,Sonning Cutting Railway Accident,"24, December, 1841","Sonning Cutting, Berkshire","Sonning Cutting, Berkshire",line obstructed ,9,,,Track/Rail Error
+1842,Versailles Rail Accident,"8, May, 1842","Meudon, Paris", 48.81833; 2.23111,broken axle,126, 48.81833, 2.23111,Technical Error
+1845,Penistone Rail Accidents,"16, July, 1845",Bullhouse Bridge, 53.5203; -1.6752  ,axle failure,24, 53.5203, -1.6752  ,Technical Error
+1847,Dee Bridge Disaster,"24, May, 1847","Chester, Cheshire", 53.183; -2.895,bridge fail,5, 53.183, -2.895,Bridge Failure
+1851,Sutton Tunnel Railway Accident,"30, April, 1851","Frodsham, Cheshire","Frodsham, Cheshire",unprotected train ,9,,,Other
+1853,Providence And Worcester Head-On Collision,"12, August, 1853","Valley Falls, Rhode Island","Valley Falls, Rhode Island",human error,14,,,Human Error
+1853,Norwalk Rail Accident,"6, May, 1853","Norwalk, Connecticut","Norwalk, Connecticut",signal passed at danger,48,,,Signalling Error
+1854,Jeannette'S Creek Train Wreck,"27, October, 1854","Chatham-Kent, Ontario","Chatham-Kent, Ontario",missing info,52,,,Cause information missing
+1855,Gasconade Bridge Train Disaster,"1, November, 1855","Gasconade, Missouri","Gasconade, Missouri",disputed,30,,,Other
+1856,Great Train Wreck Of 1856,"17, July, 1856","Whitemarsh Township, Pennsylvania", 40.1287944; -75.2029333,human error,60, 40.1287944, -75.2029333,Human Error
+1856,Great Train Wreck Of 1856,"17, July, 1856","Whitemarsh Township, Pennsylvania", 40.1287944; -75.2029333,human error,60, 40.1287944, -75.2029333,Human Error
+1856,Great Train Wreck Of 1856,"17, July, 1856","Whitemarsh Township, Pennsylvania", 40.1287944; -75.2029333,human error,60, 40.1287944, -75.2029333,Human Error
+1856,Schiedam Train Disaster,"4, May, 1856",Schiedam,Schiedam,error by the chief conductorand the driver of stoptrein ,24,,,Human Error
+1857,Lewisham Rail Crash,"28, June, 1857",Lewisham Railway Station, 51.465; -0.0096,signal passed at danger,11, 51.465, -0.0096,Signalling Error
+1857,Desjardins Canal Disaster,"12, March, 1857","Hamilton, Canada West, British North America","Hamilton, Canada West, British North America",bridge collapse,59,,,Bridge Failure
+1858,Round Oak Rail Accident,"23, August, 1858",Dudley, 52.4830; -2.1276,train divided,14, 52.4830, -2.1276,Other
+1859,South Bend Train Wreck,"27, June, 1859","Between Mishawaka And South Bend, Indiana","Between Mishawaka And South Bend, Indiana",blocked culvert,42,,,Other
+1860,Atherstone Rail Accident,"16, November, 1860",Atherstone Railway Station, 52.574; -1.547,signal passed at danger,10, 52.574, -1.547,Signalling Error
+1861,Clayton Tunnel Rail Crash,"25, August, 1861","Clayton, West Sussex", 50.91278; -0.15389,signallers error,23, 50.91278, -0.15389,Signalling Error
+1861,Kentish Town Rail Accident,"2, September, 1861",Kentish Town Station,Kentish Town Station,signalling error,16,,,Signalling Error
+1862,Winchburgh Rail Crash,"13, October, 1862","Winchburgh, Linlithgowshire", 55.97389; -3.49222,points maintenance error,15, 55.97389, -3.49222,Technical Error
+1863,Chunky Creek Train Wreck,"19, February, 1863","Hickory, Mississippi", 32.31889; -88.97222,signal passed at danger,75, 32.31889, -88.97222,Signalling Error
+1864,Shohola Train Wreck,"15, July, 1864","Shohola Township, Pike County, Pennsylvania, Usa","Shohola Township, Pike County, Pennsylvania, Usa",dispatcher error,66,,,Other
+1864,St-Hilaire Train Disaster,"29, June, 1864","Mont-Saint-Hilaire, Quebec","Mont-Saint-Hilaire, Quebec",signal passed at danger,99,,,Signalling Error
+1865,Rednal Rail Crash,"7, June, 1865","Rednal Station, Shropshire","Rednal Station, Shropshire",derailment due to excessive speed,13,,,Excessive Speed
+1865,Staplehurst Rail Crash,"9, June, 1865","Staplehurst, Kent","Staplehurst, Kent",engineering possession error,10,,,Human Error
+1866,Welwyn Tunnel Rail Crash,"9, June, 1866","Welwyn, Hertfordshire", 51.836; -0.186,guard failed to protect the train,2, 51.836, -0.186,Other
+1867,Angola Horror,"18, December, 1867","Angola, New York, U.S.","Angola, New York, U.S.",poor track condition,49,,,Track/Rail Error
+1867,Warrington Rail Crash,"29, June, 1867",Warrington Bank Quay Railway Station, 53.3615; -2.6253,points incorrectly set,8, 53.3615, -2.6253,Other
+1868,Abergele Rail Disaster,"20, August, 1868","Abergele, Conwy.","Abergele, Conwy.",runaway goods wagons,33,,,Other
+1869,Dalton Junction Rail Crash,"28, December, 1869","Dalton-On-Tees, North Yorkshire, England ", 54.462; -1.548,fractured axel,Unknows number of deaths, 54.462, -1.548,Other
+1870,Hatfield Rail Crash,"26, December, 1870","Hatfield, Hertfordshire", 51.7387; -0.2130,wheel failure,8, 51.7387, -0.2130,Technical Error
+1870,Newark Rail Crash,"21, June, 1870",Newark,Newark,broken axle,18,,,Technical Error
+1870,Stairfoot Rail Accident,"12, December, 1870",Barnsley, 53.5452; -1.4376,failure to secure standing wagons,15, 53.5452, -1.4376,Other
+1870,Tamworth Rail Crash,"14, September, 1870",Tamworth  Railway Station,Tamworth  Railway Station,signalling error,3,,,Signalling Error
+1871,Ballymacarrett Rail Crash Of 1871,"13, May, 1871",Ballymacarrett, 54.601935; -5.901845,derailment caused by intoxicated fireman,2, 54.601935, -5.901845,Derailment
+1871,Great Revere Train Wreck Of 1871,"26, August, 1871","Revere, Massachusetts","Revere, Massachusetts",missing info,30,,,Cause information missing
+1872,Kirtlebridge Rail Crash,"2, October, 1872",Kirtlebridge, 55.050; -3.212,shunting took place without signalmans authority,12, 55.050, -3.212,Signalling Error
+1873,Wigan Rail Crash,"3, August, 1873",Wigan North Western Station,Wigan North Western Station,derailment due to excessive speed,13,,,Excessive Speed
+1874,Bo'Ness Junction Rail Crash,"27, January, 1874","Bo'Ness Junction, Falkirk", 55.9778; -3.6585,signallers error,16, 55.9778, -3.6585,Signalling Error
+1874,Shipton-On-Cherwell Train Crash,"24, December, 1874","Shipton-On-Cherwell, Oxfordshire","Shipton-On-Cherwell, Oxfordshire",rolling stock failure,34,,,Other
+1874,Thorpe Rail Accident,"10, September, 1874","Thorpe St Andrew, Norfolk","Thorpe St Andrew, Norfolk",singleline telegraphic working error,25,,,Track/Rail Error
+1875,Lagerlunda Rail Accident,"15, November, 1875","Kapellån, Between Malmslätt And Bankeberg", 58.402; 15.483,missing info,9, 58.402, 15.483,Cause information missing
+1876,Abbots Ripton Rail Accident,"21, January, 1876",Abbots Ripton,Abbots Ripton,wrongside failure ,13,,,Other
+1876,Ashtabula River Railroad Disaster,"29, December, 1876","Ashtabula, Ohio, U.S.","Ashtabula, Ohio, U.S.",bridge collapse,92,,,Bridge Failure
+1876,Radstock Rail Accident,"7, August, 1876","Foxcote, Somerset", 51.302; -2.410,singleline telegraphic working error,15, 51.302, -2.410,Track/Rail Error
+1879,Tay Bridge Disaster,"28, December, 1879",Dundee,Dundee,structural failure,67,,,Other
+1880,Burscough Junction Rail Accident,"15, January, 1880","Burscough, Lancashire","Burscough, Lancashire",human error,9,,,Human Error
+1880,Rimutaka Incline Railway Accident,"11, September, 1880","Rimutaka Incline, Rimutaka Ranges","Rimutaka Incline, Rimutaka Ranges",extreme wind gusts,4,,,Environmental Cause
+1880,Wennington Junction Rail Crash,"11, August, 1880","Wennington, Lancashire", 54.123; -2.590,excessive speed over junction,8, 54.123, -2.590,Excessive Speed
+1881,Morelos Railway Accident,"23, June, 1881","Outside Cuautla, Morelos","Outside Cuautla, Morelos",bridge collapse,200,,,Bridge Failure
+1882,Hugstetten Rail Disaster,"3, September, 1882",Hugstetten,Hugstetten,washaway,64,,,Other
+1882,Inverythan Rail Accident,"27, November, 1882",Aberdeenshire,Aberdeenshire,fatigue crack,8,,,Other
+1883,Tehachapi Train Wreck,"20, January, 1883","Tehachapi, California","Tehachapi, California",air brakes were released,15,,,Brake Failure/Error
+1884,Alcudia Bridge Disaster,"27, April, 1884","Bridge Over Alcudia River, Alamillo, Province Of Ciudad Real", 38.72028; -4.84250,inconclusive,59, 38.72028, -4.84250,Other
+1884,Penistone Rail Accidents,"16, July, 1884",Bullhouse Bridge, 53.5203; -1.6752  ,axle failure,24, 53.5203, -1.6752  ,Technical Error
+1885,Penistone Rail Accidents,"16, July, 1885",Bullhouse Bridge, 53.5203; -1.6752  ,axle failure,24, 53.5203, -1.6752  ,Technical Error
+1887,Great Chatsworth Train Wreck,"10, August, 1887","Chatsworth Township, Livingston County, Between Chatsworth And Piper City, Illinois, Usa", 40.75500; -88.25778,bridge collapse,83, 40.75500, -88.25778,Bridge Failure
+1887,Hexthorpe Rail Accident,"16, September, 1887",Hexthorpe Railway Platform,Hexthorpe Railway Platform,drivers error,25,,,Human Error
+1888,Borki Train Disaster,"29, October, 1888","Borki Station, Kharkov Governorate","Borki Station, Kharkov Governorate",inconclusive,21,,,Other
+1888,Mud Run Disaster,"10, October, 1888","Jim Thorpe, Pennsylvania","Jim Thorpe, Pennsylvania",signal passed at danger,64,,,Signalling Error
+1888,Wreck At The Fat Nancy,"12, July, 1888","Orange County, Virginia","Orange County, Virginia",missing info,9,,,Cause information missing
+1889,Armagh Rail Disaster,"12, June, 1889",Armagh, 54.36083; -6.61250,runaway ,80, 54.36083, -6.61250,Other
+1889,Penistone Rail Accidents,"16, July, 1889",Bullhouse Bridge, 53.5203; -1.6752  ,axle failure,24, 53.5203, -1.6752  ,Technical Error
+1890,Norton Fitzwarren Rail Crash,"11, November, 1890",Norton Fitzwarren Station,Norton Fitzwarren Station,signalling error,10,,,Signalling Error
+1891,Great East Thompson Train Wreck,"4, December, 1891","Thompson, Connecticut","Thompson, Connecticut",crew error,2,,,Other
+1891,Norwood Junction Rail Accident,"1, May, 1891","Norwood Junction Railway Station, South Norwood, Surrey","Norwood Junction Railway Station, South Norwood, Surrey",bridge collapse,0,,,Bridge Failure
+1892,Thirsk Rail Crash,"2, November, 1892","Thirsk, Yorkshire","Thirsk, Yorkshire",signalling error ,10,,,Signalling Error
+1892,Esholt Junction Rail Crash,"9, June, 1892","Esholt Junction, Yorkshire","Esholt Junction, Yorkshire",signals obscureddefective signalling procedure,5,,,Signalling Error
+1893,Llantrisant Rail Accident,"12, August, 1893",Llantrisant,Llantrisant,locomotive suspension failure,13,,,Technical Error
+1894,Chelford Rail Accident,"22, December, 1894","Chelford, Cheshire","Chelford, Cheshire",a highsided wagon was moved by the wind in the path of others,14,,,Environmental Cause
+1894,Rock Island Railroad Wreck,"9, August, 1894","Wilderness Park, Lincoln, Nebraska", 40.74389; -96.71250  ,sabotage,11, 40.74389, -96.71250  ,Other
+1895,Montparnasse Derailment,"22, October, 1895",Paris Montparnasse,Paris Montparnasse,missing info,1,,,Cause information missing
+1896,Atlantic City Rail Crash,"30, July, 1896","Atlantic City, New Jersey","Atlantic City, New Jersey",engineer error,50,,,Human Error
+1897,Welshampton Rail Crash,"11, June, 1897",Welshampton, 52.9155; -2.8320,excessive speed,12, 52.9155, -2.8320,Excessive Speed
+1898,Wrawby Junction Rail Crash,"17, October, 1898","Wrawby Junction, Lincolnshire", 53.5701; -0.4197,goods train derailment,8, 53.5701, -0.4197,Derailment
+1898,Potters Bar Rail Accidents,"10, May, 1898","Potters Bar, Hertfordshire", 51.697; -0.194,derailment due to movement of points,7, 51.697, -0.194,Derailment
+1899,Rakaia Railway Accident,"11, March, 1899","Rakaia, South Island","Rakaia, South Island",excessive speed  inadequate brakes and signals,4,,,Excessive Speed
+1900,Camp Creek Train Wreck,"23, June, 1900","Just Outside Mcdonough, Georgia","Just Outside Mcdonough, Georgia",washout of trestle bridge due to heavy rain,35,,,Bridge Failure
+1900,Slough Rail Accident,"16, June, 1900",Slough Railway Station,Slough Railway Station,signal passed at danger,5,,,Signalling Error
+1900,Twello Train Accident,"22, December, 1900","Twello Railway Station, Twello", 52.23806; 6.10000,wrong set railroad switch,2, 52.23806, 6.10000,Track/Rail Error
+1903,Connellsville Train Wreck,"23, December, 1903","Connellsville, Pennsylvania","Connellsville, Pennsylvania",debris on track,64,,,Track/Rail Error
+1903,East Paris Train Wreck,"26, December, 1903",,,signal failure,21,,,Signalling Error
+1903,Esmond Train Wreck,"28, January, 1903"," Tucson, Arizona", 32.10306; -110.77444,failure to relay orders,14, 32.10306, -110.77444,Other
+1903,Glasgow St Enoch Rail Accident,"27, July, 1903",St Enoch Railway Station,St Enoch Railway Station,drivers error incomplete route knowledge,16,,,Human Error
+1903,Little Falls Gulf Curve Crash Of 1903,"23, August, 1903","Little Falls, New York","Little Falls, New York",excessive speed on sharp curve,2,,,Excessive Speed
+1903,Wreck Of The Old 1903,"27, September, 1903","Stillhouse Trestle, Danville, Virginia, U.S.","Stillhouse Trestle, Danville, Virginia, U.S.",excessive speed,11,,,Excessive Speed
+1904,New Market Train Wreck,"24, September, 1904","New Market, Tennessee","New Market, Tennessee",engineer error,56,,,Human Error
+1905,Th Century Limited Derailment,"21, June, 1905","Mentor, Ohio","Mentor, Ohio",unknown,21,,,Other
+1905,Hall Road Rail Accident,"27, July, 1905",Hall Road Railway Station, 53.4975; -3.0497,rearend collision due to points failure,20, 53.4975, -3.0497,Other
+1905,Witham Rail Crash,"1, September, 1905",Witham Railway Station,Witham Railway Station,points maintenance error,11,,,Technical Error
+1906,Salisbury Rail Crash,"1, July, 1906","Salisbury Railway Station, Wiltshire, England", 51.0708; -1.8042,overspeed on curve,28, 51.0708, -1.8042,Excessive Speed
+1906,Atlantic City Train Wreck,"28, October, 1906","Atlantic City, New Jersey","Atlantic City, New Jersey",draw  bridge locking failure,53,,,Bridge Failure
+1906,Elliot Junction Rail Accident,"28, December, 1906","Elliot Junction Station, Forfarshire","Elliot Junction Station, Forfarshire",driver error ,22,,,Human Error
+1906,Grantham Rail Accident,"19, September, 1906","Grantham, Lincolnshire", 52.9097; -0.6467,drivers error,14, 52.9097, -0.6467,Human Error
+1906,"Washington, D.C., Train Wreck","30, December, 1906","Brookland, Washington, D.C.","Brookland, Washington, D.C.",signal passed at danger,53,,,Signalling Error
+1907,Birmingham Tramway Accident,"1, October, 1907","Birmingham, England", 52.4866; -1.9181,brake failure,2, 52.4866, -1.9181,Brake Failure/Error
+1907,Blossvale Crash Of 1907,"14, April, 1907","Annsville, New York","Annsville, New York",roadbed failure,1,,,Other
+1907,Newport Rail Accident,"28, September, 1907","Newport, Monmouthshire","Newport, Monmouthshire",signallers error,1,,,Signalling Error
+1907,Shrewsbury Rail Accident,"15, October, 1907","Shrewsbury, Shropshire","Shrewsbury, Shropshire",drivers error,18,,,Human Error
+1908,Bournemouth Tramway Accident,"1, May, 1908","Bournemouth, England", 50.721266; -1.883169,brake failure,7, 50.721266, -1.883169,Brake Failure/Error
+1908,Sunshine Rail Disaster,"20, April, 1908","Sunshine, Victoria. ", -37.7881; 144.8325,signal passed at danger due to brake failure on bendigo train,44, -37.7881, 144.8325,Signalling Error
+1910,Braunton Road Rail Accident,"1, January, 1910","Braunton Road, Devon", 51.089; -4.083,missing info,1, 51.089, -4.083,Cause information missing
+1910,Green Mountain Train Wreck,"21, March, 1910","Spring Creek Township, Tama County, Iowa,, Between Green Mountain And Gladbrook", 42.16472; -92.76667,undetermined,52, 42.16472, -92.76667,Cause information missing
+1910,Hawes Junction Rail Crash,"24, December, 1910","Aisgill Summit, Westmorland", 54.3395; -2.3258,signalling error,12, 54.3395, -2.3258,Signalling Error
+1910,Rogers Pass Avalanche,"4, March, 1910","Rogers Pass, British Columbia", 51.28333; -117.51194,missing info,62, 51.28333, -117.51194,Cause information missing
+1910,Spanish River Derailment,"21, January, 1910","Nairn, Ontario", 46.30106; -81.67491,missing info,56, 46.30106, -81.67491,Cause information missing
+1911,Blaauwkrantz Bridge Disaster,"22, April, 1911",Blaauwkrantz Pass,Blaauwkrantz Pass,missing info,28,,,Cause information missing
+1911,Indianola Train Wreck,"29, May, 1911","Mccook, Nebraska","Mccook, Nebraska",missing order to stop,18,,,Other
+1911,Pontypridd Railway Accident,"23, January, 1911",Pontypridd Railway Station, 51.605; -3.350,signalling error,11, 51.605, -3.350,Signalling Error
+1912,Corning Train Wreck,"4, July, 1912","Corning, New York", 42.12361; -77.01889,signal passed at danger,39, 42.12361, -77.01889,Signalling Error
+1912,Ditton Junction Rail Crash,"17, September, 1912",Ditton Junction, 53.35634; -2.76918,driver misread signals,15, 53.35634, -2.76918,Signalling Error
+1913,Ais Gill Rail Accident,"2, September, 1913","Aisgill, Westmorland", 54.368470; -2.349350,drivers error,16, 54.368470, -2.349350,Human Error
+1913,Bramminge Train Accident,"26, July, 1913",Bramming , 55.46361; 8.68556,heatstressed rails,15, 55.46361, 8.68556,Track/Rail Error
+1913,Chumhill Rail Accident,"26, February, 1913",, 51.1133; -3.9737,wet leaves on the line,2, 51.1133, -3.9737,Track/Rail Error
+1913,Guyandotte River Train Wreck,"1, January, 1913",West Virginia,West Virginia,bridge collapse,7,,,Bridge Failure
+1914,Exeter Crossing Loop Collision,"13, March, 1914","Exeter, New South Wales", -34.6138; 150.3173,missing info,14, -34.6138, 150.3173,Cause information missing
+1915,Ilford Rail Crash,"1, January, 1915",Ilford, 51.5588; 0.0685,signal passed at danger,10, 51.5588, 0.0685,Signalling Error
+1915,Guadalajara Train Disaster,"22, January, 1915",Guadalajara,Guadalajara,brake failure,600,,,Brake Failure/Error
+1915,Quintinshill Rail Disaster,"22, May, 1915","Quintinshill, Dumfriesshire", 55.0146; -3.0649,signalling error,226, 55.0146, -3.0649,Signalling Error
+1915,St Bedes Junction Rail Crash,"17, December, 1915",Jarrow, 54.9773; -1.4824,signalmans error,19, 54.9773, -1.4824,Signalling Error
+1915,Weedon Rail Crashes,"14, August, 1915","Weedon, Northamptonshire", 52.22212; -1.06387,detached coupling rod,10, 52.22212, -1.06387,Technical Error
+1915,Weedon Rail Crashes,"14, August, 1915","Weedon, Northamptonshire", 52.22212; -1.06387,detached coupling rod,10, 52.22212, -1.06387,Technical Error
+1916,Herceghalom Rail Crash,"1, December, 1916",Herceghalom Station, 47.493730; 18.743327,signal passed at danger,69, 47.493730, 18.743327,Signalling Error
+1917,Bere Ferrers Rail Accident,"24, September, 1917",Bere Ferrers Railway Station, 50.45109; -4.18141,passengers misunderstanding of operating rules,10, 50.45109, -4.18141,Other
+1917,Ciurea Rail Disaster,"14, January, 1917",Ciurea Station , 46.88806; 27.18667,brake failure,900, 46.88806, 27.18667,Brake Failure/Error
+1917,Houten Train Accident,"7, June, 1917",Houten, 52.00778; 5.18583,due to heat the rails was expanded,Unknows number of deaths, 52.00778, 5.18583,Track/Rail Error
+1917,Saint-Michel-De-Maurienne Derailment,"12, December, 1917",Saint-Michel-De-Maurienne,Saint-Michel-De-Maurienne,very steep slope of the railway line,675,,,Track/Rail Error
+1917,Shepherdsville Train Wreck,"20, December, 1917","Shepherdsville, Kentucky", 37.98694; -85.71472,failure to protect train,49, 37.98694, -85.71472,Other
+1918,Getå Railroad Disaster,"1, October, 1918",Getå,Getå,landslide,42,,,Environmental Cause
+1918,Great Train Wreck Of 1918,"9, July, 1918","Nashville, Tennessee", 36.12944; -86.84806,human error,101, 36.12944, -86.84806,Human Error
+1918,Hammond Circus Train Wreck,"22, June, 1918","Hammond, Indiana","Hammond, Indiana",engineer falling asleep,86,,,Human Error
+1918,Little Salkeld Rail Accident,"19, January, 1918",Little Salkeld, 54.724; -2.6798,line obstructed ,7, 54.724, -2.6798,Track/Rail Error
+1918,Malbone Street Wreck,"1, November, 1918","Flatbush, Brooklyn, New York","Flatbush, Brooklyn, New York",excessive speed around curve,97,,,Excessive Speed
+1918,Weesp Train Disaster,"13, September, 1918","Weesp, North Holland","Weesp, North Holland",embankment collapse,41,,,Other
+1919,Onawa Train Wreck,"20, December, 1919","Onawa, Maine", 45.37056; -69.40972,misreading of train orders,23, 45.37056, -69.40972,Other
+1919,Vigerslev Train Crash,"1, November, 1919",Vigerslev, 55.66417; 12.47750,missing info,40, 55.66417, 12.47750,Cause information missing
+1920,Rosmalen Train Accident,"27, December, 1920",Rosmalen,Rosmalen,ignoring signal,3,,,Signalling Error
+1921,Abermule Train Collision,"26, January, 1921","Abermule, Montgomeryshire","Abermule, Montgomeryshire",singleline token error,17,,,Track/Rail Error
+1923,Glenrock Train Wreck,"23, September, 1923","Glenrock, Wyoming","Glenrock, Wyoming",cloudburst,30,,,Environmental Cause
+1923,Ongarue Railway Disaster,"6, July, 1923","Ongarue, North Island","Ongarue, North Island",struck landslip in which was embedded a large boulder,17,,,Environmental Cause
+1924,Lytham Rail Crash,"3, November, 1924","Lytham St Annes, Lancashire","Lytham St Annes, Lancashire",locomotive failure,15,,,Technical Error
+1925,Rockport Train Wreck,"16, June, 1925","Rockport, Mansfield Township, New Jersey","Rockport, Mansfield Township, New Jersey",debris on grade crossing,47,,,Other
+1926,Murulla Rail Accident,"13, September, 1926","Murulla, New South Wales. ","Murulla, New South Wales. ",runaway vehicles from goods train,26,,,Other
+1926,Orgreave Rail Accident,"13, December, 1926","Orgreave Colliery, South Yorkshire","Orgreave Colliery, South Yorkshire",derailment fouled line,0,,,Derailment
+1926,El Virilla Train Accident,"14, March, 1926",Virilla River Canyon,Virilla River Canyon,overloaded train ,248,,,Human Error
+1927,Hull Paragon Rail Accident,"14, February, 1927",Hull Paragon Station,Hull Paragon Station,signallers error,12,,,Signalling Error
+1927,Sevenoaks Railway Accident,"24, August, 1927",Sevenoaks Railway Station,Sevenoaks Railway Station,derailment of locomotive,13,,,Technical Error
+1928,Charfield Railway Disaster,"13, October, 1928","Charfield, Gloucestershire", 51.6287; -2.4005,drivers error,16, 51.6287, -2.4005,Human Error
+1928,Darlington Rail Crash,"27, June, 1928",Darlington Bank Top Station, 54.5178; -1.54677,drivers error,25, 54.5178, -1.54677,Human Error
+1928,Glasgow Queen Street Rail Accident,"12, October, 1928",Glasgow Queen Street Railway Station,Glasgow Queen Street Railway Station,failure of signalman to comply with rules,3,,,Signalling Error
+1932,Turenne Rail Accident,"14, September, 1932",Tlemcen Province,Tlemcen Province,undermined track,62,,,Track/Rail Error
+1934,Winwick Rail Crash,"28, September, 1934","Winwick, Cheshire","Winwick, Cheshire",signalling error,11,,,Signalling Error
+1935,Welwyn Garden City Rail Crashes,"15, June, 1935","Welwyn Garden City, Hertfordshire","Welwyn Garden City, Hertfordshire",signalling error,14,,,Signalling Error
+1936,Rimutaka Incline Railway Accident,"11, September, 1936","Rimutaka Incline, Rimutaka Ranges","Rimutaka Incline, Rimutaka Ranges",extreme wind gusts,4,,,Environmental Cause
+1936,Rimutaka Incline Railway Accident,"11, September, 1936","Rimutaka Incline, Rimutaka Ranges","Rimutaka Incline, Rimutaka Ranges",extreme wind gusts,4,,,Environmental Cause
+1937,Dominguez Canyon Rail Crash,"26, April, 1937","Dominguez Canyon, Colorado, Usa","Dominguez Canyon, Colorado, Usa",burnt out bridge,2,,,Bridge Failure
+1937,Battersea Park Rail Crash,"2, April, 1937",Battersea Park Railway Station,Battersea Park Railway Station,signallers error,10,,,Signalling Error
+1937,Castlecary Rail Accidents,"10, December, 1937",Castlecary,Castlecary,signalman error,35,,,Signalling Error
+1938,Custer Creek Train Wreck,"19, June, 1938","Saugus, Montana","Saugus, Montana",cloudburst,47,,,Environmental Cause
+1939,City Of San Francisco Derailment,"12, August, 1939","Harney, Nevada", 40.5755261; -116.2981592,sabotage,24, 40.5755261, -116.2981592,Other
+1939,Genthin Rail Disaster,"22, December, 1939","Genthin, Landkreis Jerichow Ii, Regierungsbezirk Magdeburg, Province Of Saxony, Free State Of Prussia, Germany", 52.4032306; 12.1565222,signal passed at danger and signallers error,232, 52.4032306, 12.1565222,Signalling Error
+1940,Norton Fitzwarren Rail Crash,"4, November, 1940","Norton Fitzwarren, Somerset","Norton Fitzwarren, Somerset",signal passed at danger,27,,,Signalling Error
+1940,Doodlebug Disaster,"31, July, 1940","Cuyahoga Falls, Ohio", 41.146100; -81.472867,failure to obey orders due to carbon monoxide poisoning,43, 41.146100, -81.472867,Other
+1940,Little Falls Gulf Curve Crash Of 1940,"19, April, 1940","Little Falls, New York", 43.04162; -74.84866,excessive speed on sharp curve,31, 43.04162, -74.84866,Excessive Speed
+1941,Eccles Rail Crash,"30, December, 1941","Eccles, Lancashire","Eccles, Lancashire",signal passed at danger,23,,,Signalling Error
+1943,Frankford Junction Train Wreck,"6, September, 1943","Frankford Junction, Pennsylvania", 40.0018; -75.1006,overheated journal box caused axle to break,79, 40.0018, -75.1006,Technical Error
+1943,Hyde Railway Disaster,"4, June, 1943","Hyde, Otago, South Island","Hyde, Otago, South Island",excessive speed,21,,,Excessive Speed
+1943,Lackawanna Limited Wreck,"30, August, 1943","Wayland, New York", 42.5528; -77.5932,train on track without authority,29, 42.5528, -77.5932,Track/Rail Error
+1944,Ilford Rail Crash,"16, January, 1944",Ilford,Ilford,signal passed at danger,9,,,Signalling Error
+1944,Bagley Train Wreck,"31, December, 1944","Bagley, West Of Ogden, Utah", 41.238577; -112.310196,signal passed at danger,50, 41.238577, -112.310196,Signalling Error
+1944,Balvano Train Disaster,"3, March, 1944","Balvano, Basilicata","Balvano, Basilicata",excessive weight,517,,,Human Error
+1944,Soham Rail Disaster,"2, June, 1944","Soham, Cambridgeshire","Soham, Cambridgeshire",ammunition explosion,2,,,Other
+1944,Stockton Train Wreck,"4, August, 1944","Stockton, Georgia","Stockton, Georgia",broken rail,47,,,Track/Rail Error
+1944,Torre Del Bierzo Rail Disaster,"3, January, 1944",Torre Del Bierzo,Torre Del Bierzo,brake failure,89,,,Brake Failure/Error
+1945,Ballymacarrett Rail Crash,"10, January, 1945",Ballymacarrett, 54.6033395; -5.892709,excessive speed,22, 54.6033395, -5.892709,Excessive Speed
+1945,Bourne End Rail Crash,"30, September, 1945","Hemel Hempstead, Hertfordshire, England","Hemel Hempstead, Hertfordshire, England",driver error,43,,,Human Error
+1945,King'S Cross Railway Accident,"4, February, 1945",London King'S Cross Railway Station,London King'S Cross Railway Station,mishandling of engine by driver,2,,,Human Error
+1945,Michigan Train Wreck,"9, August, 1945","Michigan City, North Dakota","Michigan City, North Dakota",failure to protect lead train,34,,,Other
+1946,Aracaju Train Crash,"20, March, 1946",Aracaju,Aracaju,missing info,185,,,Cause information missing
+1946,Lichfield Rail Crash,"1, January, 1946",Lichfield Trent Valley Railway Station,Lichfield Trent Valley Railway Station,points failure,20,,,Other
+1946,Naperville Train Disaster,"25, April, 1946","Naperville, Illinois", 41.77972; -88.14194,failure of second train to follow signal,45, 41.77972, -88.14194,Signalling Error
+1946,Potters Bar Rail Accidents,"10, May, 1946","Potters Bar, Hertfordshire", 51.697; -0.194,derailment due to movement of points,7, 51.697, -0.194,Derailment
+1947,Doncaster Rail Crash,"9, August, 1947",Doncaster Railway Station Mi  N From London,Doncaster Railway Station Mi  N From London,signalmans error,18,,,Signalling Error
+1947,Camp Mountain Rail Accident,"5, May, 1947","Camp Mountain, Queensland. ", -27.3972; 152.8956,excessive speed,16, -27.3972, 152.8956,Excessive Speed
+1947,Downers Grove Train Wreck,"3, April, 1947","Downers Grove, Illinois", 41.79556; -88.00889,obstruction on line,3, 41.79556, -88.00889,Track/Rail Error
+1947,Dugald Rail Accident,"1, September, 1947","Dugald, Manitoba","Dugald, Manitoba",disregard of train orders,31,,,Other
+1947,Goswick Rail Crash,"26, October, 1947","Goswick, Northumberland", 55.705; -1.927,drivers error,28, 55.705, -1.927,Human Error
+1947,Hachikō Line Derailment,"25, February, 1947",Saitama Prefecture,Saitama Prefecture,excessive speed,184,,,Excessive Speed
+1947,South Croydon Rail Crash,"24, October, 1947","South Croydon, Surrey","South Croydon, Surrey",signalman error,32,,,Signalling Error
+1949,Matsukawa Derailment,"17, August, 1949","Between Kanayagawa And Matsukawa, Fukushima Prefecture","Between Kanayagawa And Matsukawa, Fukushima Prefecture",sabotage,3,,,Other
+1950,Canoe River Train Crash,"21, November, 1950","South Of Valemount, British Columbia ", 52.76333; -119.26500,words omitted from order to troop train,21, 52.76333, -119.26500,Other
+1950,Hjuksebø Train Collision,"15, November, 1950",Hjuksebø Station , 59.46861; 9.33083,runaway freight wagons,14, 59.46861, 9.33083,Other
+1950,Kew Gardens Train Crash,"22, November, 1950","Kew Gardens, Queens, New York City", 40.70472; -73.82583,signal passed at danger,78, 40.70472, -73.82583,Signalling Error
+1950,Rockville Centre Train Crash,"17, February, 1950","Rockville Centre, New York", 40.65833; -73.65222,signal passed at danger,32, 40.65833, -73.65222,Signalling Error
+1951,Doncaster Rail Crash,"16, March, 1951",South Of Doncaster Railway Station,South Of Doncaster Railway Station,poor track maintenance,14,,,Technical Error
+1951,Nova Iguaçu Level Crossing Disaster,"7, June, 1951",Nova Iguaçu,Nova Iguaçu,stalled vehicle,54,,,Other
+1951,Piquet Carneiro Train Crash,"17, December, 1951",Piquet Carneiro,Piquet Carneiro,excess speed,53,,,Excessive Speed
+1951,Sakuragichō Train Fire,"24, April, 1951",Sakuragichō Station,Sakuragichō Station,overhead wire maintenance error,106,,,Technical Error
+1951,Weedon Rail Crashes,"14, August, 1951","Weedon, Northamptonshire", 52.22212; -1.06387,detached coupling rod,10, 52.22212, -1.06387,Technical Error
+1951,Weedon Rail Crashes,"14, August, 1951","Weedon, Northamptonshire", 52.22212; -1.06387,detached coupling rod,10, 52.22212, -1.06387,Technical Error
+1951,Woodbridge Train Derailment,"6, February, 1951","Woodbridge, New Jersey", 40.55167; -74.27667,excessive speed,85, 40.55167, -74.27667,Excessive Speed
+1952,Anchieta Rail Disaster,"4, March, 1952","Anchieta, Rio De Janeiro","Anchieta, Rio De Janeiro",broken rail,119,,,Track/Rail Error
+1952,Gibalta Rail Accident,"31, March, 1952",Farol Da Gibalta,Farol Da Gibalta,missing info,10,,,Cause information missing
+1952,Harrow And Wealdstone Rail Crash,"8, October, 1952",Harrow And Wealdstone,Harrow And Wealdstone,signal passed at danger,112,,,Signalling Error
+1953,Col Des Nuages Derailment,"24, June, 1953",Eastern French Indochina,Eastern French Indochina,bombing,100,,,Other
+1953,Irk Valley Junction Rail Crash,"15, August, 1953",Manchester Victoria Station, 53.49833; -2.22611,signal passed at danger,10, 53.49833, -2.22611,Signalling Error
+1953,New York Central Railroad Accident,"27, March, 1953","Conneaut, Ohio", 41.954185; -80.525533,improperly secured load,21, 41.954185, -80.525533,Human Error
+1953,Pennsylvania Railroad Train Wreck,"15, January, 1953","Union Station, Washington, D.C.", 38.8988; -77.0061,braking failure,0, 38.8988, -77.0061,Brake Failure/Error
+1953,Šakvice Train Collision,"24, December, 1953",Šakvice, 48.91417; 16.70139,missing info,103, 48.91417, 16.70139,Cause information missing
+1953,Stratford Tube Crash,"8, April, 1953","Stratford Station, Essex","Stratford Station, Essex",driver error,12,,,Human Error
+1953,Sydenham Rail Disaster,"19, December, 1953","Sydenham, New South Wales","Sydenham, New South Wales",wrongside failure,5,,,Other
+1953,Tangiwai Disaster,"24, December, 1953","Whangaehu River Bridge, Tangiwai, North Island", -39.46472; 175.57667,bridge collapse due to lahar from mount ruapehu,151, -39.46472, 175.57667,Bridge Failure
+1953,Weesp Train Disaster,"13, September, 1953","Weesp, North Holland","Weesp, North Holland",embankment collapse,41,,,Other
+1955,Barnes Rail Crash,"2, December, 1955","Barnes Railway Station, London","Barnes Railway Station, London",signalling error,13,,,Signalling Error
+1955,Milton Rail Crash,"20, November, 1955",Milton,Milton,drivers error,11,,,Human Error
+1955,San Bernardo Train Crash,"17, July, 1955",San Bernardo,San Bernardo,signal passed at danger,38,,,Signalling Error
+1955,Sutton Coldfield Rail Crash,"23, January, 1955","Sutton Coldfield, Warwickshire", 52.56528; -1.82444,overspeed on curve,17, 52.56528, -1.82444,Excessive Speed
+1956,Redondo Junction Train Wreck,"22, January, 1956",Los Angeles,Los Angeles,excessive speed,30,,,Excessive Speed
+1956,Rokken Rail Accident,"15, October, 1956",Rokken Station,Rokken Station,signal error,42,,,Signalling Error
+1956,Santiago Rail Crash,"14, February, 1956",Santiago,Santiago,signal passed at danger,23,,,Signalling Error
+1957,Gambar Train Crash,"29, September, 1957","Gambar Railway Station, Pakistan", 30.7500; 73.3315,lack of signalsallowing two trains into same occupied block section,300, 30.7500, 73.3315,Signalling Error
+1957,Codogno Rail Crash,"9, December, 1957",Codogno,Codogno,missing info,15,,,Cause information missing
+1957,Lewisham Rail Crash,"4, December, 1957",St Johns, 51.467583; -0.019250,signal passed at danger,90, 51.467583, -0.019250,Signalling Error
+1957,Welwyn Garden City Rail Crashes,"15, June, 1957","Welwyn Garden City, Hertfordshire","Welwyn Garden City, Hertfordshire",signalling error,14,,,Signalling Error
+1957,Yarımburgaz Train Disaster,"20, October, 1957","Yarımburgaz, Küçükçe","Yarımburgaz, Küçükçe",allowing two trains into same occupied block section by signalmen,95,,,Signalling Error
+1958,Newark Bay Rail Accident,"15, September, 1958","Newark Bay, Bayonne, New Jersey, U.S.", 40.6545; -74.15,signal passed at danger,48, 40.6545, -74.15,Signalling Error
+1958,Dagenham East Rail Crash,"30, January, 1958",Dagenham East,Dagenham East,drivers error,10,,,Human Error
+1958,Eastbourne Rail Crash,"25, August, 1958",Eastbourne, 50.7703; 0.2831,drivers error,5, 50.7703, 0.2831,Human Error
+1958,Rio De Janeiro Train Crash,"8, May, 1958","Mangueira, Rio De Janeiro","Mangueira, Rio De Janeiro",signalling error,128,,,Signalling Error
+1960,Settle Rail Crash,"21, January, 1960",Settle,Settle,disconnected connecting rod assembly,5,,,Other
+1960,Stéblová Train Disaster,"14, November, 1960",Stéblová, 50.08917; 15.75083,missing info,118, 50.08917, 15.75083,Cause information missing
+1960,Woerden Train Disaster,"21, November, 1960",Woerden,Woerden,ignoring temporary speed limit,2,,,Excessive Speed
+1961,Fiumarella Rail Disaster,"23, December, 1961",Fiumarella Viaduct,Fiumarella Viaduct,derailment and rupture of the coupling,71,,,Derailment
+1961,Singleton Bank Rail Crash,"16, July, 1961","Weeton, Lancashire","Weeton, Lancashire",signaller error,7,,,Signalling Error
+1962,Castel Bolognese Train Disaster,"8, March, 1962",Castel Bolognese Railway Station,Castel Bolognese Railway Station,speeding through construction zone,13,,,Excessive Speed
+1962,Coppenhall Junction Railway Accident,"26, December, 1962","Coppenhall Junction, Cheshire", 53.1684; -2.4778  ,signal passed at danger,18, 53.1684, -2.4778  ,Signalling Error
+1962,Coppenhall Junction Railway Accident,"26, December, 1962","Coppenhall Junction, Cheshire", 53.1684; -2.4778  ,signal passed at danger,18, 53.1684, -2.4778  ,Signalling Error
+1962,Harmelen Train Disaster,"8, January, 1962","Harmelen, Utrecht", 52.10472; 4.95639,signal passed at danger,93, 52.10472, 4.95639,Signalling Error
+1962,Lincoln Rail Crash,"3, June, 1962","Lincoln Central Railway Station, Lincolnshire", 53.2247; -0.5347,overspeed on curve,3, 53.2247, -0.5347,Excessive Speed
+1962,Mikawashima Train Crash,"3, May, 1962",Mikawashima Station,Mikawashima Station,signal passed at danger,160,,,Signalling Error
+1962,Villa Soldati Level Crossing Tragedy,"11, June, 1962","Villa Soldati, Buenos Aires","Villa Soldati, Buenos Aires",crossing operator error,42,,,Human Error
+1962,Voghera Train Crash,"31, May, 1962",Voghera Railway Station,Voghera Railway Station,missing info,64,,,Cause information missing
+1963,Chualar Bus Crash,"17, September, 1963","Chualar, California, U.S.", 36.5539556; -121.5029000,bus driver negligence,32, 36.5539556, -121.5029000,Human Error
+1963,Knowle And Dorridge Rail Crash,"15, August, 1963","Knowle And Dorridge Station, West Midlands","Knowle And Dorridge Station, West Midlands",signallers error,3,,,Signalling Error
+1963,Tsurumi Rail Accident,"9, November, 1963",Yokohama,Yokohama,track problems,162,,,Track/Rail Error
+1964,Altamirano Rail Disaster,"1, February, 1964",Altamirano,Altamirano,points failure,34,,,Other
+1965,Coton Hill Rail Crash,"11, January, 1965","Coton Hill, Shropshire","Coton Hill, Shropshire",overspeed on incline,1,,,Excessive Speed
+1965,Winsford Railway Accident,"5, June, 1965",Winsford Railway Station,Winsford Railway Station,missing info,1,,,Cause information missing
+1966,Dorion Level Crossing Accident,"7, October, 1966","Dorion, Quebec","Dorion, Quebec",missing info,19,,,Cause information missing
+1967,Thirsk Rail Crash,"31, July, 1967","Thirsk, Yorkshire","Thirsk, Yorkshire",rolling stock failure,7,,,Other
+1967,Connington South Rail Crash,"5, March, 1967","Conington , Huntingdonshire","Conington , Huntingdonshire",signalling error ,5,,,Signalling Error
+1967,Hither Green Rail Crash,"5, November, 1967",Hither Green Depot,Hither Green Depot,broken rail,49,,,Track/Rail Error
+1967,Langenweddingen Level Crossing Disaster,"6, July, 1967",Magdeburg,Magdeburg,gate left open,94,,,Other
+1967,Stechford Rail Crash,"28, February, 1967","Stechford, Birmingham","Stechford, Birmingham",shunting error,9,,,Other
+1968,Castlecary Rail Accidents,"10, December, 1968",Castlecary,Castlecary,signalman error,35,,,Signalling Error
+1969,Marden Rail Crash,"4, January, 1969",Between Paddock Wood And Marden Railway Stations, 51.17778; 0.46583,driver error ,4, 51.17778, 0.46583,Human Error
+1969,Rail Accidents At Morpeth,"25, March, 1969","Morpeth, Northumberland","Morpeth, Northumberland",defective track,5,,,Track/Rail Error
+1969,Violet Town Rail Accident,"7, February, 1969","Violet Town, Victoria ","Violet Town, Victoria ",driver heart attack,9,,,Human Error
+1970,Audenshaw Junction Rail Accident,"20, May, 1970","Audenshaw Junction, Audenshaw, Greater Manchester","Audenshaw Junction, Audenshaw, Greater Manchester",signaller error,2,,,Signalling Error
+1970,Benavídez Rail Disaster,"1, February, 1970",Benavídez,Benavídez,failure to protect stopped train,236,,,Other
+1970,Lehigh Valley Railroad Derailment,"6, December, 1970","Le Roy, Genesee County,  New York", 42.992249; -77.9333,missing info,Unknows number of deaths, 42.992249, -77.9333,Cause information missing
+1971,Dahlerau Train Disaster,"27, May, 1971","Dahlerau, Radevormwald, Oberbergischer Kreis, North Rhine-Westphalia","Dahlerau, Radevormwald, Oberbergischer Kreis, North Rhine-Westphalia",not determined,46,,,Other
+1971,Gualliguaica Rail Accident,"11, March, 1971","Vicuña, Elqui Province","Vicuña, Elqui Province",missing info,12,,,Cause information missing
+1971,"Salem, Illinois, Derailment","10, June, 1971","Salem, Illinois", 38.665431; -88.977421,mechanical problem,11, 38.665431, -88.977421,Other
+1972,Chester General Rail Crash,"8, May, 1972","Chester Railway Station, Chester, England.", 53.19639; -2.878250,failure to connect vacuum brake pipes to the locomotive,0, 53.19639, -2.878250,Technical Error
+1972,Chicago Commuter Rail Crash,"30, October, 1972","Chicago, Illinois","Chicago, Illinois",train backed into signal block,45,,,Signalling Error
+1972,Eltham Well Hall Rail Crash,"11, June, 1972",Eltham Well Hall,Eltham Well Hall,driver was intoxicated,6,,,Human Error
+1972,"Gilchrest Road, New York Crossing Accident","24, March, 1972","Clarkstown, New York", 41.1338; -73.9452,bus drivers failure to yield at a grade crossing,5, 41.1338, -73.9452,Human Error
+1973,Ealing Rail Crash,"19, December, 1973","Ealing, London","Ealing, London",unlocked battery box,10,,,Other
+1974,Magude Train Disaster,"27, March, 1974",Magude, -25.02306; 32.64806,excessive speed,70, -25.02306, 32.64806,Excessive Speed
+1974,Zagreb Train Disaster,"30, August, 1974",Zagreb, 45.80490; 15.98840,excessive speed,153, 45.80490, 15.98840,Excessive Speed
+1975,Moorgate Tube Crash,"28, February, 1975","Moorgate, London","Moorgate, London",driver failed to stop,43,,,Human Error
+1975,Nuneaton Rail Crash,"6, June, 1975","Nuneaton, Warwickshire","Nuneaton, Warwickshire",overspeed on temporary trackdriver error,6,,,Excessive Speed
+1975,Žasliai Railway Disaster,"4, April, 1975",Žaslių Gs , 54.83472; 24.59389,collision with a cargo train,20, 54.83472, 24.59389,Other
+1976,Schiedam Train Disaster,"4, May, 1976",Schiedam,Schiedam,error by the chief conductorand the driver of stoptrein ,24,,,Human Error
+1977,Chicago Loop Derailment,"4, February, 1977","Chicago, Illinois","Chicago, Illinois",driver error,11,,,Human Error
+1977,Granville Rail Disaster,"18, January, 1977","Granville, Sydney, New South Wales. ","Granville, Sydney, New South Wales. ",poor track maintenance,83,,,Technical Error
+1977,Iri Station Explosion,"11, November, 1977","Iri, Now Iksan", 35.94062; 126.94636,missing info,57, 35.94062, 126.94636,Cause information missing
+1978,Taunton Sleeping Car Fire,"6, July, 1978","Taunton, Somerset","Taunton, Somerset",obstructed electric heater,12,,,Other
+1978,"Waverly, Tennessee, Tank Car Explosion","February, 1978","Waverly, Tennessee. Mi  West From Nashville", 36.087; -87.792,tank car boiling liquid expanding vapor explosion  two days following a derailment,16, 36.087, -87.792,Derailment
+1979,"Harvey, Illinois Train Collision","12, October, 1979","Harvey, Illinois", 41.606917; -87.644472,changing a switch erroneously due to confusion of switchman,2, 41.606917, -87.644472,Other
+1979,Invergowrie Rail Accident,"22, October, 1979","Invergowrie, Scotland", 56.458; -3.054,signal passed at danger,5, 56.458, -3.054,Signalling Error
+1979,Mississauga Train Derailment,"10, November, 1979","Mississauga, Ontario", 43.5710; -79.6401,overheated journal bearing,0, 43.5710, -79.6401,Other
+1979,Nijmegen Train Collision,"28, August, 1979",, 51.8320; 5.8378,missing info,8, 51.8320, 5.8378,Cause information missing
+1979,Paisley Gilmour Street Rail Accident,"16, April, 1979","Paisley, Renfrewshire", 55.847; -4.425,signal passed at danger,7, 55.847, -4.425,Signalling Error
+1980,Buttevant Rail Disaster,"1, August, 1980",Buttevant, 52.2331; -8.6669,express sent into sidings as points not interlocked,18, 52.2331, -8.6669,Other
+1980,Otłoczyn Railway Accident,"19, August, 1980",Otłoczyn,Otłoczyn,freight train driver error,67,,,Human Error
+1980,Winsum Train Collision,"25, July, 1980","Winsum, Groningen", 53.31778; 6.52806,missing info,9, 53.31778, 6.52806,Cause information missing
+1981,Chengdu–Kunming Rail Crash,"9, July, 1981","Ganluo County, Sichuan Province","Ganluo County, Sichuan Province",mudslide,300,,,Other
+1981,Brandsen Rail Disaster,"8, March, 1981",Brandsen,Brandsen,points failure,34,,,Other
+1981,Osieck Rail Crash,"4, June, 1981",Osieck Railway Station,Osieck Railway Station,signal passed at danger,25,,,Signalling Error
+1981,Seer Green Rail Crash,"11, December, 1981","Seer Green, Buckinghamshire", 51.6045; -0.5973,signaller incorrectly authorised driver to pass signal at danger,4, 51.6045, -0.5973,Signalling Error
+1982,Bouhalouane Train Crash,"27, January, 1982","Bouhalouane, Chlef Province","Bouhalouane, Chlef Province",brake failure,131,,,Brake Failure/Error
+1982,Washington Metro Train Derailment,"13, January, 1982","Between Federal Triangle And Smithsonian Stations, Washington, D.C.","Between Federal Triangle And Smithsonian Stations, Washington, D.C.",operator error,3,,,Human Error
+1983,Wrawby Junction Rail Crash,"9, December, 1983",Wrawby Junction, 53.5701; -0.4197,signalling error,1, 53.5701, -0.4197,Signalling Error
+1984,Eccles Rail Crash,"4, December, 1984","Eccles, Greater Manchester","Eccles, Greater Manchester",drivers error,3,,,Human Error
+1984,Polmont Rail Accident,"30, July, 1984",West Of Polmont. Mi  West-Northwest From Edinburgh, 55.9845; -3.7450,obstruction on line,13, 55.9845, -3.7450,Track/Rail Error
+1984,Rail Accidents At Morpeth,"25, March, 1984","Morpeth, Northumberland","Morpeth, Northumberland",defective track,5,,,Track/Rail Error
+1984,Wembley Central Rail Crash,"11, October, 1984","Wembley, Greater London","Wembley, Greater London",signal passed at danger,3,,,Signalling Error
+1985,Moimenta-Alcafache Train Crash,"11, September, 1985","Moimenta De Maceira Dão, Mangualde, Viseu", 40.56167; -7.82056,missing info,99, 40.56167, -7.82056,Cause information missing
+1986,Colwich Rail Crash,"19, September, 1986","Colwich Junction, Staffordshire, England","Colwich Junction, Staffordshire, England",drivers error,1,,,Human Error
+1986,Hinton Train Collision,"8, February, 1986","Dalehurst, Alberta", 53.49645; -117.36970, locomotive engineer,23, 53.49645, -117.36970,Technical Error
+1986,Queronque Rail Accident,"17, February, 1986","Limache, Marga Marga Province","Limache, Marga Marga Province",negligence,58,,,Other
+1987,Bintaro Train Crash,"19, October, 1987","Bintaro, Jakarta","Bintaro, Jakarta",human error,139,,,Human Error
+1987,Glanrhyd Bridge Collapse,"19, October, 1987","Llandeilo, Carmarthenshire","Llandeilo, Carmarthenshire",bridge swept away,4,,,Bridge Failure
+1987,Kamensk-Shakhtinsky Rail Disaster,"7, August, 1987",Kamensk-Shakhtinsky,Kamensk-Shakhtinsky,brake failure,106,,,Brake Failure/Error
+1987,Maryland Train Collision,"4, January, 1987","Chase, Maryland", 39.37639; -76.35694,engineer error,16, 39.37639, -76.35694,Human Error
+1988,Sorø Derailment,"25, April, 1988",Sorø, 55.417917; 11.55556,high speed,8, 55.417917, 11.55556,Excessive Speed
+1988,Arzamas Train Disaster,"4, June, 1988",Arzamas- Station,Arzamas- Station,missing info,91,,,Cause information missing
+1988,Clapham Junction Rail Crash,"12, December, 1988","Clapham Junction, London, England","Clapham Junction, London, England",unprotected wrongside failure,35,,,Other
+1988,Forst Zinna Rail Disaster,"19, January, 1988",Forst Zinna,Forst Zinna,missing info,6,,,Cause information missing
+1988,Gare De Lyon Rail Accident,"27, June, 1988",Paris-Gare De Lyon Rail Station,Paris-Gare De Lyon Rail Station,disabling of braking system caused by driver error,56,,,Brake Failure/Error
+1988,Peruman Railway Accident,"8, July, 1988","Ashtamudi Lake, Kollam District, Kerala", 9.11667; 76.48333,unknown,105, 9.11667, 76.48333,Other
+1989,Helena Train Wreck,"2, February, 1989","Helena, Montana","Helena, Montana",failure of train crew to set brakes properly,0,,,Brake Failure/Error
+1989,Glasgow Bellgrove Rail Accident,"6, March, 1989","Bellgrove, Glasgow","Bellgrove, Glasgow",signal passed at danger,2,,,Signalling Error
+1989,Purley Station Rail Crash,"4, March, 1989",Purley,Purley,signal passed at danger,5,,,Signalling Error
+1989,San Bernardino Train Disaster,"12, May, 1989","San Bernardino, California", 34.13750; -117.34417,train derailment,6, 34.13750, -117.34417,Derailment
+1989,San Rafael River Train Wreck,"10, August, 1989","Guasave, Sinaloa, Mexico","Guasave, Sinaloa, Mexico",missing info,112,,,Cause information missing
+1989,Ufa Train Disaster,"4, June, 1989","Iglinsky District, Bashkir Assr", 54.94389; 57.08611,missing info,575, 54.94389, 57.08611,Cause information missing
+1990,"Back Bay, Massachusetts Train Collision","12, December, 1990","Back Bay, Boston, Massachusetts, Us", 42.3473; -71.0755,excessive speed,0, 42.3473, -71.0755,Excessive Speed
+1990,Cowan Rail Accident,"6, May, 1990","Brooklyn, New South Wales", -33.55432; 151.19633,signaling fault,6, -33.55432, 151.19633,Signalling Error
+1990,Rüsselsheim Train Disaster,"2, February, 1990","Rüsselsheim, Hessen","Rüsselsheim, Hessen",missing info,17,,,Cause information missing
+1990,Sukkur Rail Disaster,"4, January, 1990",Sukkur,Sukkur,incorrectly set points,307,,,Other
+1990,Ursus Rail Crash,"20, August, 1990",Warszawa Ursus Railway Station,Warszawa Ursus Railway Station,signal fault,16,,,Signalling Error
+1991,Miaoli Train Collision,"15, November, 1991","Zaoqiao, Miaoli County", 24.66611; 120.83472,missing info,30, 24.66611, 120.83472,Cause information missing
+1991,Cannon Street Station Rail Crash,"8, January, 1991",Cannon Street Station,Cannon Street Station,drivers error,2,,,Human Error
+1991,Newton (South Lanarkshire) Rail Accident,"21, July, 1991","Newton, South Lanarkshire","Newton, South Lanarkshire",spad,4,,,Other
+1991,Severn Tunnel Rail Accident,"7, December, 1991",Severn Tunnel,Severn Tunnel,axle counter failure or driver error,0,,,Technical Error
+1991,Shigaraki Train Disaster,"14, May, 1991","Shigaraki, Shiga","Shigaraki, Shiga",signal passed at danger,42,,,Signalling Error
+1991,Union Square Derailment,"28, August, 1991",North Of Th Street–Union Square, 40.73602; -73.98952,intoxication,5, 40.73602, -73.98952,Other
+1992,Hoofddorp Train Accident,"30, November, 1992",Hoofddorp,Hoofddorp,high speed due to insufficient communication with operator,5,,,Excessive Speed
+1992,Podsosenka Train Disaster,"3, March, 1992","Nelidovo, Tver Oblast","Nelidovo, Tver Oblast",signal passed at danger,43,,,Signalling Error
+1992,Rail Accidents At Morpeth,"25, March, 1992","Morpeth, Northumberland","Morpeth, Northumberland",defective track,5,,,Track/Rail Error
+1992,Tåsen Accident,"24, February, 1992","Between Tåsen And Østhorn Stations At Nordberg, Oslo","Between Tåsen And Østhorn Stations At Nordberg, Oslo",missing info,1,,,Cause information missing
+1993,Big Bayou Canot Rail Accident,"22, September, 1993","Mobile, Alabama, U.S.", 30.8173; -87.9932,barge collision with bridge ,47, 30.8173, -87.9932,Bridge Failure
+1993,Clementi Rail Accident,"5, August, 1993",Clementi Mrt Station, 1.3153028; 103.7652444,oil spill leading to reduced braking power,Unknows number of deaths, 1.3153028, 103.7652444,Brake Failure/Error
+1994,Cowden Rail Crash,"15, October, 1994","Cowden Railway Station, Kent","Cowden Railway Station, Kent",spad caused by driver error,5,,,Human Error
+1994,Greenock Rail Crash,"25, June, 1994","Drumfrochar Railway Station, Greenock","Drumfrochar Railway Station, Greenock",vandalism,2,,,Other
+1994,Rail Accidents At Morpeth,"25, March, 1994","Morpeth, Northumberland","Morpeth, Northumberland",defective track,5,,,Track/Rail Error
+1995,Ais Gill Rail Accident,"31, January, 1995","Aisgill, Cumbria","Aisgill, Cumbria",line obstructed by landslide,1,,,Track/Rail Error
+1995,Firozabad Rail Disaster,"20, August, 1995",Firozabad,Firozabad,missing info,358,,,Cause information missing
+1995,Fox River Grove Bus–Train Collision,"25, October, 1995","Fox River Grove, Illinois", 42.197000; -88.217778,bus driver misjudgementtraffic signal timing,7, 42.197000, -88.217778,Signalling Error
+1995,Garmisch-Partenkirchen Train Collision,"12, December, 1995",Garmisch-Partenkirchen,Garmisch-Partenkirchen,spad whilst departing,1,,,Other
+1995,Krouna Train Accident,"24, June, 1995",Krouna, 49.78833; 16.03306,missing info,19, 49.78833, 16.03306,Cause information missing
+1995,Mishima Station Incident,"27, December, 1995","Mishima, Shizuoka, Japan", 35.1263389; 138.9111639,passenger negligence,1, 35.1263389, 138.9111639,Other
+1995,Russell Hill Subway Accident,"11, August, 1995","Toronto, Ontario","Toronto, Ontario",operator error,3,,,Human Error
+1995,Williamsburg Bridge Subway Collision,"5, June, 1995",Williamsburg Bridge,Williamsburg Bridge,driver failed to stop at a signal because he was asleep,1,,,Signalling Error
+1996,Dniprodzerzhynsk Tram Accident,"2, July, 1996","Kamianske , Dnipropetrovsk Oblast", 48.499917; 34.636778,brake failure,34, 48.499917, 34.636778,Brake Failure/Error
+1996,Secaucus Train Collision,"9, February, 1996","Secaucus, New Jersey", 40.7520167; -74.0699167,signal passed at danger due to color blindness of train engineer,3, 40.7520167, -74.0699167,Signalling Error
+1996,Stafford Rail Crash,"8, March, 1996","Stafford, Staffordshire","Stafford, Staffordshire",axle failure,1,,,Technical Error
+1996,Channel Tunnel Fire,"18, November, 1996",Channel Tunnel Mi  North West From Sangatte,Channel Tunnel Mi  North West From Sangatte,missing info,0,,,Cause information missing
+1996,Hines Hill Train Collision,"14, January, 1996","Hines Hill, Western Australia","Hines Hill, Western Australia",signal passed at danger,2,,,Signalling Error
+1996,Jokela Rail Accident,"21, April, 1996","Jokela, Tuusula ", 60.55444; 24.96722,excessive speed,4, 60.55444, 24.96722,Excessive Speed
+1996,Maryland Train Collision,"16, February, 1996","Silver Spring, Maryland, U.S.", 39.0008; -77.0423,signal passed at danger due to driver error of the marc train,11, 39.0008, -77.0423,Signalling Error
+1996,Watford Rail Crash,"8, August, 1996",Watford,Watford,signal passed at danger,1,,,Signalling Error
+1996,"Weyauwega, Wisconsin, Derailment","4, March, 1996","Weyauwega, Wisconsin", 44.329861; -88.933222,missing info,0, 44.329861, -88.933222,Cause information missing
+1997,Southall Rail Crash,"19, September, 1997",Southall,Southall,signal passed at danger,7,,,Signalling Error
+1998,Eschede Derailment,"3, June, 1998","Celle, Lower Saxony ","Celle, Lower Saxony ",wheel disintegration,101,,,Technical Error
+1998,Fatuha Train Crash,"4, April, 1998",,,removal of fishplates,12,,,Other
+1998,Jyväskylä Rail Accident,"6, March, 1998",Jyväskylä,Jyväskylä,excessive speed,10,,,Excessive Speed
+1998,Khanna Rail Disaster,"26, November, 1998",Khanna,Khanna,broken rail,212,,,Track/Rail Error
+1998,Suonenjoki Rail Collision,"12, August, 1998",Suonenjoki,Suonenjoki,misinterpretation of signals,0,,,Signalling Error
+1999,Winsford Railway Accident,"23, June, 1999","Winsford, Cheshire","Winsford, Cheshire",spad due to human error,0,,,Human Error
+1999,Wuppertal Schwebebahn Accident,"12, April, 1999","Wuppertal, Germany","Wuppertal, Germany",train struck maintenance equipment left on tracks by rail workers,5,,,Technical Error
+1999,"Bourbonnais, Illinois, Train Crash","15, March, 1999","Bourbonnais, Illinois", 41.184694; -87.853278,vehicle incursion,11, 41.184694, -87.853278,Other
+1999,Gaisal Train Disaster,"2, August, 1999","Gaisal, Uttar Dinajpur, West Bengal","Gaisal, Uttar Dinajpur, West Bengal",signalling error,285,,,Signalling Error
+1999,Ladbroke Grove Rail Crash,"5, October, 1999","Ladbroke Grove, London, England", 51.52500; -0.21750,signal passed at danger,31, 51.52500, -0.21750,Signalling Error
+1999,Winsford Railway Accident,"23, June, 1999","Winsford, Cheshire","Winsford, Cheshire",spad due to human error,0,,,Human Error
+1999,Spa Road Junction Rail Crash,"8, January, 1999",Spa Road Junction,Spa Road Junction,signal passed at danger caused by driver error,0,,,Signalling Error
+1999,Zanthus Train Collision,"18, August, 1999","Zanthus, Western Australia ","Zanthus, Western Australia ",driver error,0,,,Human Error
+2000,Naka-Meguro Derailment,"8, March, 2000",Naka-Meguro Station,Naka-Meguro Station,missing info,5,,,Cause information missing
+2000,Åsta Accident,"4, January, 2000","Åsta, Åmot","Åsta, Åmot",missing info,19,,,Cause information missing
+2000,Brühl Train Derailment,"6, February, 2000","Brühl Station, Nrw","Brühl Station, Nrw",misinterpretation of debatable signalling,9,,,Signalling Error
+2000,Hatfield Rail Crash,"17, October, 2000","Hatfield, Hertfordshire", 51.75389; -0.22167,broken rail,4, 51.75389, -0.22167,Track/Rail Error
+2000,Sarai Banjara Train Disaster,"2, December, 2000",Punjab, 30.5613; 76.4802,broken rail,46, 30.5613, 76.4802,Track/Rail Error
+2001,Howard Street Tunnel Fire,"18, July, 2001","Baltimore, Maryland", 39.2877; -76.6193,missing info,0, 39.2877, -76.6193,Cause information missing
+2001,Kadalundi Train Derailment,"22, June, 2001","Bridge , Kadalundi, Kozhikode District, Kerala, India", 11.12861; 75.83139,missing info,59, 11.12861, 75.83139,Cause information missing
+2001,Selby Rail Crash,"28, February, 2001","Great Heck, Selby, North Yorkshire, England", 53.68722; -1.09806,obstruction on line,10, 53.68722, -1.09806,Track/Rail Error
+2001,Stewiacke Via Derailment,"12, April, 2001","Stewiacke, Nova Scotia", 45.13806; -63.35056,tampered switch,0, 45.13806, -63.35056,Other
+2002,El Ayyat Railway Accident,"20, February, 2002","El Ayyat, Egypt","El Ayyat, Egypt",exploding gas cylinder,383,,,Other
+2002,Farragut Derailment,"15, September, 2002","Farragut, Tennessee", 35.85389; -84.15889,failure to promptly investigate suspected track damage,0, 35.85389, -84.15889,Under Investigation
+2002,Igandu Train Collision,"24, June, 2002","Igandu, Dodoma","Igandu, Dodoma",missing info,281,,,Cause information missing
+2002,Kasganj Level Crossing Disaster,"4, June, 2002","Uttar Pradesh, India","Uttar Pradesh, India",missing info,49,,,Cause information missing
+2002,Minot Train Derailment,"18, January, 2002","Ward County, North Dakota, United States","Ward County, North Dakota, United States",joint fatigue,1,,,Technical Error
+2002,Okuda Incident,"26, September, 2002","Inazawa, Aichi","Inazawa, Aichi",collision with car on tracks,1,,,Track/Rail Error
+2002,Potters Bar Rail Accidents,"10, May, 2002","Potters Bar, Hertfordshire", 51.697; -0.194,derailment due to movement of points,7, 51.697, -0.194,Derailment
+2002,Tenga Rail Disaster,"25, May, 2002",Tenga,Tenga,missing info,192,,,Cause information missing
+2003,Melbourne Runaway Train,"3, February, 2003","Spencer Street Station, Melbourne", -37.8183; 144.9528,driver error,Unknows number of deaths, -37.8183, 144.9528,Human Error
+2003,Chinchilla Train Collision,"3, June, 2003","Chinchilla De Montearagón, Spain","Chinchilla De Montearagón, Spain",human error,19,,,Human Error
+2003,Dete Train Crash,"1, February, 2003",,,signaling miscommunication,50,,,Signalling Error
+2003,Waterfall Rail Accident,"31, January, 2003","Waterfall, New South Wales ", -34.152096; 150.994830,driver lost consciousness due to a myocardial infarction,7, -34.152096, 150.994830,Human Error
+2004,Derailment Of Joetsu Shinkansen,"20, October, 2004",Between Urasa Station And  Nagaoka Station,Between Urasa Station And  Nagaoka Station, chetsu earthquake,0,,,Environmental Cause
+2004,Sri Lanka Tsunami Train Wreck,"26, December, 2004","Peraliya, Hikkaduwa","Peraliya, Hikkaduwa",tsunami,1300,,,Other
+2004,Cairns Tilt Train Derailment,"15, November, 2004","Berajondo, Queensland ","Berajondo, Queensland ",excessive speed,0,,,Excessive Speed
+2004,Karanjadi Train Crash,"17, June, 2004",Maharashtra,Maharashtra,missing info,20,,,Cause information missing
+2004,Nishapur Train Disaster,"18, February, 2004",Khayyam, 36.0987; 58.9715,runaway rail cars,295, 36.0987, 58.9715,Track/Rail Error
+2004,Nosaby Level Crossing Accident,"10, September, 2004","Länsväg /Blekinge Kustbana, Level Crossing At Nosaby Church In Kristianstad", 56.05139; 14.19472,truck stopped at level crossing,2, 56.05139, 14.19472,Other
+2004,Tebay Rail Accident,"15, February, 2004","Tebay, Cumbria", 54.4196556; -2.5987306,brake failure as result of gross negligence,4, 54.4196556, -2.5987306,Brake Failure/Error
+2004,Ufton Nervet Rail Crash,"6, November, 2004","Ufton Nervet, Berkshire","Ufton Nervet, Berkshire",obstruction on line,7,,,Track/Rail Error
+2005,Ghotki Rail Crash,"13, July, 2005",Ghotki,Ghotki,incorrectly set pointssignal malfunction,100,,,Signalling Error
+2005,Phú Lộc Derailment,"12, March, 2005","Phú Lộc, Thừa Thiên–Huế", 16.2; 108.133,speeding,11, 16.2, 108.133,Excessive Speed
+2005,Amagasaki Derailment,"25, April, 2005","Amagasaki, Hyogo Prefecture", 34.741472; 135.426583,overspeed on curve arising from harsh penalties for lateness,107, 34.741472, 135.426583,Excessive Speed
+2005,Eurostar  Derailment,"24, October, 2005","Bari, Apulia, Italy","Bari, Apulia, Italy",landslide following severe weather,0,,,Environmental Cause
+2005,Glendale Train Crash,"26, January, 2005","Glendale/Los Angeles, Ca", 34.1299083; -118.2634500,intentional obstruction of line,11, 34.1299083, -118.2634500,Track/Rail Error
+2005,Graniteville Train Crash,"6, January, 2005","Graniteville, South Carolina","Graniteville, South Carolina",incorrectly aligned railroad switch,10,,,Track/Rail Error
+2005,Nagpur Level Crossing Disaster,"3, February, 2005",Maharashtra,Maharashtra,missing info,58,,,Cause information missing
+2006,Bioče Derailment,"23, January, 2006",Bioče,Bioče,braking system failure,45,,,Brake Failure/Error
+2006,Faure Level Crossing Accident,"13, November, 2006","Faure, Eerste River, Western Cape ","Faure, Eerste River, Western Cape ",missing info,19,,,Cause information missing
+2006,Lathen Train Collision,"22, September, 2006","Lathen, Lower Saxony","Lathen, Lower Saxony",human error,23,,,Human Error
+2006,Qalyoub Train Collision,"21, August, 2006",Qalyoub,Qalyoub,missing info,58,,,Cause information missing
+2006,Valencia Metro Derailment,"3, July, 2006","Valencia, Valencian Community", 39.4613; -0.3826,missing info,43, 39.4613, -0.3826,Cause information missing
+2006,Zoufftgen Train Collision,"11, October, 2006","Zoufftgen, Lorraine","Zoufftgen, Lorraine",human error  traffic controllers,6,,,Human Error
+2007,Benaleka Train Accident,"1, August, 2007",Benaleka,Benaleka,brake failure,100,,,Brake Failure/Error
+2007,Brooks Derailment,"16, January, 2007","Bullitt County, Kentucky", 38.068; -85.711,missing info,0, 38.068, -85.711,Cause information missing
+2007,Grayrigg Derailment,"23, February, 2007","Grayrigg, Cumbria", 54.35750; -2.65917,defective points due to poor maintenance and inspection procedures,1, 54.35750, -2.65917,Technical Error
+2007,Kerang Train Accident,"5, June, 2007","Kerang, Victoria. ","Kerang, Victoria. ",truck driver error,11,,,Human Error
+2007,Mehrabpur Derailment,"19, December, 2007",Mehrabpur Junction Railway Station,Mehrabpur Junction Railway Station,derailment,40,,,Derailment
+2008,Barrow Upon Soar Rail Crash,"1, February, 2008","Barrow Upon Soar, Leicestershire","Barrow Upon Soar, Leicestershire",collapsed bridge,0,,,Bridge Failure
+2008,Chatsworth Train Collision,"12, September, 2008","Los Angeles, California","Los Angeles, California",signal passed at danger,25,,,Signalling Error
+2008,Zibo Train Collision,"28, April, 2008","Zibo, Shandong Province", 36.69306; 117.78139,speeding and derailment,72, 36.69306, 117.78139,Excessive Speed
+2008,Kütahya Train Derailment,"27, January, 2008",", Çöğürler, Kütahya", 39.25861; 30.19361,rail fracture due to frost,9, 39.25861, 30.19361,Track/Rail Error
+2008,Massachusetts Train Collision,"28, May, 2008","Newton, Massachusetts","Newton, Massachusetts",microsleep episode caused by sleep apnea,1,,,Other
+2008,Monorierdő Train Collision,"6, October, 2008","Monorierdő, Pest County","Monorierdő, Pest County",train control error,4,,,Other
+2008,Sofia – Kardam Train Fire,"28, February, 2008","Cherven Bryag, Bulgaria","Cherven Bryag, Bulgaria",under investigation,9,,,Under Investigation
+2008,Studénka Train Wreck,"8, August, 2008",Studénka, 49.7049; 18.0511,missing info,8, 49.7049, 18.0511,Cause information missing
+2009,Barendrecht Train Accident,"24, September, 2009",Barendrecht,Barendrecht,missing info,1,,,Cause information missing
+2009,El Ayyat Railway Accident,"24, October, 2009","El Ayyat, Giza", 29.6167; 31.25,suspected spad,50, 29.6167, 31.25,Other
+2009,Friedewald Train Collision,"12, September, 2009",Between Friedewald And Friedewald Bad Stations, 51.13278; 13.65750,crew error,0, 51.13278, 13.65750,Other
+2009,Chenzhou Train Collision,"29, June, 2009","Chenzhou Railway Stationchenzhou, Chenzhou, Hunan", 25.809; 113.033,under investigation,3, 25.809, 113.033,Under Investigation
+2009,Khao Tao Railway Station,2009,"Sathani Road, Nong Kae Subdistrict, Hua Hin District, Prachuap Khiri Khan", 12.4589; 99.9698,missing info,Unknows number of deaths, 12.4589, 99.9698,Cause information missing
+2009,Nevsky Express Bombing,"27, November, 2009","Between Alyoshinka And Uglovka, Novgorod Oblast", 58.12583; 33.67361,terrorist act,28, 58.12583, 33.67361,Other
+2009,Rudine Derailment,"24, July, 2009","Rudine, Kaštela", 43.570115; 16.311307 ,excessive speed caused by braking failure,6, 43.570115, 16.311307 ,Excessive Speed
+2009,Scânteia Train Accident,"14, August, 2009","Railway Station In Scânteia, Iaşi County ","Railway Station In Scânteia, Iaşi County ",missing info,14,,,Cause information missing
+2009,Viareggio Train Derailment,"29, June, 2009","Viareggio Railway Station,Viareggio ", 43.8711694; 10.2564250,defective axle,32, 43.8711694, 10.2564250,Technical Error
+2009,June  Washington Metro Train Collision,"22, June, 2009","Between Takoma And Fort Totten, Northeast, Washington, D.C.", 38.96028; -77.00583,track circuit malfunction,9, 38.96028, -77.00583,Track/Rail Error
+2010,Badarwas Train Collision,"20, September, 2010",Badarwas, 24.97000; 77.57000,red signal overshot,23, 24.97000, 77.57000,Signalling Error
+2010,Bilecik Train Collision,"3, January, 2010",Bilecik, 40.1431; 29.9792,signal passed at danger,1, 40.1431, 29.9792,Signalling Error
+2010,Bir El-Bey Train Collision,"24, September, 2010",Bir El-Bey,Bir El-Bey,reduced visibility from heavy rain storm,1,,,Other
+2010,Blackheath Train Accident,"25, August, 2010","Blackheath, Blue Downs, Western Cape ", -33.9702; 18.7059,missing info,9, -33.9702, 18.7059,Cause information missing
+2010,Castelldefels Train Accident,"23, June, 2010",Platja De Castelldefels Railway Station ,Platja De Castelldefels Railway Station ,missing info,12,,,Cause information missing
+2010,Falls Of Cruachan Derailment,"6, June, 2010",Falls Of Cruachan,Falls Of Cruachan,collision with debris following a landslide,0,,,Environmental Cause
+2010,Fiesch Derailment,"23, July, 2010",Fiesch,Fiesch,missing info,1,,,Cause information missing
+2010,Jiangxi Derailment,"23, May, 2010","Fuzhou, Jiangxi", 28.23423; 116.70845,earlier landslide damaged rails,19, 28.23423, 116.70845,Track/Rail Error
+2010,Halle Train Collision,"15, February, 2010","Buizingen, Halle", 50.74500; 4.25167,running of a red signal,19, 50.74500, 4.25167,Signalling Error
+2010,Little Cornard Derailment,"17, August, 2010","Little Cornard, Suffolk", 52.0178278; 0.7463639,line obstructed by road vehicle,Unknows number of deaths, 52.0178278, 0.7463639,Track/Rail Error
+2010,Marhanets Train Accident,"12, October, 2010","Marhanets, Dnipropetrovsk Oblast", 47.65139; 34.58389,violation of traffic rules,45, 47.65139, 34.58389,Other
+2010,Merano Derailment,"12, April, 2010",Between Latsch And Kastelbell-Tschars,Between Latsch And Kastelbell-Tschars,obstruction on line ,9,,,Track/Rail Error
+2010,Petarukan Train Collision,"2, October, 2010",Petarukan, -6.86000; 109.34000,human error,36, -6.86000, 109.34000,Human Error
+2010,Pretoria Train Accident,"21, April, 2010",Pretoria,Pretoria,missing info,3,,,Cause information missing
+2010,Sainthia Train Collision,"19, July, 2010","Sainthia Junction Railway Station, Sainthia, Birbhum, West Bengal","Sainthia Junction Railway Station, Sainthia, Birbhum, West Bengal",missing info,66,,,Cause information missing
+2010,Sjursøya Train Accident,"24, March, 2010","Sjursøya, Oslo", 59.88806; 10.75472,runaway,3, 59.88806, 10.75472,Other
+2010,Skotterud Derailment,"1, October, 2010",Skotterud, 59.983; 12.117,crack in a wheel of the first carriage,0, 59.983, 12.117,Technical Error
+2010,Ústí Nad Labem Derailment,"28, June, 2010",Ústí Nad Labem, 50.64306; 14.04417,excessive speed,1, 50.64306, 14.04417,Excessive Speed
+2010,Yanga Derailment,"21, June, 2010",Yanga,Yanga,missing info,76,,,Cause information missing
+2011,Alawwa Rail Accident,"17, September, 2011",Alawwa,Alawwa,human error,5,,,Human Error
+2011,Baby Derailment,"12, August, 2011","Baby, Piotrków County", 51.53694; 19.71667,disputed,2, 51.53694, 19.71667,Other
+2011,Boudouaou Rail Accident,"22, August, 2011",Boumerdès Province, 36.7531054; 3.4203953,missing info,1, 36.7531054, 3.4203953,Cause information missing
+2011,Fatehpur Derailment,"10, July, 2011","Fatehpur, Uttar Pradesh, India","Fatehpur, Uttar Pradesh, India",missing info,70,,,Cause information missing
+2011,Flores Rail Crash,"13, September, 2011","Flores, Buenos Aires", -34.62750; -58.46500,bus driver ignored level crossing warning signals,11, -34.62750, -58.46500,Signalling Error
+2011,Hordorf Train Collision,"29, January, 2011","Hordorf, Saxony-Anhalt", 52.00056; 11.19167,missing info,10, 52.00056, 11.19167,Cause information missing
+2011,Wenzhou Train Collision,"23, July, 2011","Lucheng District, Wenzhou, Zhejiang", 28.01158000; 120.58949000,railway signal failure,40, 28.01158000, 120.58949000,Track/Rail Error
+2012,Myanmar Train Crash,"9, November, 2012",Kantbalu,Kantbalu,undetermined,27,,,Cause information missing
+2012,Burlington Via Derailment,"26, February, 2012","Burlington, Ontario", 43.32583; -79.83389,excessive speed on crossover,3, 43.32583, -79.83389,Excessive Speed
+2012,Buenos Aires Rail Disaster,"22, February, 2012",Buenos Aires, -34.60861; -58.40750,motorman error,51, -34.60861, -58.40750,Other
+2012,Hectorspruit Level Crossing Accident,"13, July, 2012","Hectorspruit, Mpumalanga","Hectorspruit, Mpumalanga",missing info,25,,,Cause information missing
+2012,Lujerului Tram Accident,"10, May, 2012",Lujerului Underpass,Lujerului Underpass,human error,0,,,Human Error
+2012,Mahrawa Derailment,"31, May, 2012","Mihrawan, Uttar Pradesh","Mihrawan, Uttar Pradesh",under investigation,7,,,Under Investigation
+2012,Manfalut Railway Accident,"17, November, 2012",Manfalut, 27.317; 30.967,missing info,51, 27.317, 30.967,Cause information missing
+2012,Midland Train Crash,"15, November, 2012","Midland, Texas", 31.985629; -102.093495,missing info,4, 31.985629, -102.093495,Cause information missing
+2012,Nellore Train Fire,"30, July, 2012","Nellore, Andhra Pradesh","Nellore, Andhra Pradesh",under investigation,32,,,Under Investigation
+2012,Penukonda Train Collision,"22, May, 2012","Penukonda, Andhra Pradesh","Penukonda, Andhra Pradesh",pilot error,25,,,Other
+2012,Amsterdam Westerpark Train Collision,"21, April, 2012","Westerpark, Amsterdam", 52.387364; 4.879003,suspected spad,1, 52.387364, 4.879003,Other
+2012,Szczekociny Rail Crash,"3, March, 2012",Szczekociny, 50.62056; 19.85833,train dispatcher error,16, 50.62056, 19.85833,Other
+2013,Bintaro Train Crash,"9, December, 2013","Bintaro, Jakarta","Bintaro, Jakarta",human error,7,,,Human Error
+2013,Buenos Aires Train Crash,"19, October, 2013","Once Railway Station, Buenos Aires","Once Railway Station, Buenos Aires",sleeping at the controls,7,,,Other
+2013,Chapramari Forest Train Accident,"13, November, 2013","Chapramari Wildlife Sanctuary, Jalpaiguri District, West Bengal","Chapramari Wildlife Sanctuary, Jalpaiguri District, West Bengal",speeding,5,,,Excessive Speed
+2013,Mexico Train Accident,"25, August, 2013","Huimanguillo, Tabasco","Huimanguillo, Tabasco",missing info,6,,,Cause information missing
+2013,Ottawa Bus–Train Crash,"18, September, 2013","Ottawa, Ontario, Canada", 45.302818; -75.734054,missing info,6, 45.302818, -75.734054,Cause information missing
+2013,Saltsjöbanan Train Crash,"15, January, 2013",Saltsjöbaden, 59.27894; 18.313785,human error,0, 59.27894, 18.313785,Human Error
+2013,Alfarelos Train Crash,"21, January, 2013","Alfarelos, Soure, Coimbra","Alfarelos, Soure, Coimbra",missing info,0,,,Cause information missing
+2013,Badrashin Railway Accident,"15, January, 2013",Giza Governorate,Giza Governorate,missing info,19,,,Cause information missing
+2013,Brétigny-Sur-Orge Train Crash,"12, July, 2013","Brétigny-Sur-Orge, Île-De-France", 48.607316; 2.302274,track defect,7, 48.607316, 2.302274,Track/Rail Error
+2013,Castelar Rail Accident,"13, June, 2013",Buenos Aires Province, -34.65028; -58.63639,to the driver of ,3, -34.65028, -58.63639,Human Error
+2013,Dhamara Ghat Train Accident,"19, August, 2013","Dhamara Ghat, Saharsa District, Bihar", 25.5904639; 86.5994306,missing info,28, 25.5904639, 86.5994306,Cause information missing
+2013,Fairfield Train Crash,"17, May, 2013","Fairfield, Connecticut, Bridgeport, Connecticut", 41.167361; -73.21806,broken joint bars,0, 41.167361, -73.21806,Technical Error
+2013,Granges-Près-Marnand Train Crash,"29, July, 2013",Granges-Près-Marnand, 46.77361; 6.89306,driver error  spad,1, 46.77361, 6.89306,Human Error
+2013,Hatfield Colliery,2013,"Stainforth, Dn Tz", 53.5934; -1.0145,missing info,Unknows number of deaths, 53.5934, -1.0145,Cause information missing
+2013,July  Spuyten Duyvil Derailment,"18, July, 2013","Between Spuyten Duyvil And Marble Hill Stations, Bronx, Ny", 40.87590; -73.91681,excessive track gauge,0, 40.87590, -73.91681,Track/Rail Error
+2013,Lac-Mégantic Rail Disaster,"6, July, 2013","Lac-Mégantic, Quebec", 45.57778; -70.88500,neglect,47, 45.57778, -70.88500,Other
+2013,Santiago De Compostela Derailment,"24, July, 2013","Angrois, Santiago De Compostela, Galicia, Spain. ", 42.859500; -8.52778,overspeed on curve,79, 42.859500, -8.52778,Excessive Speed
+2013,Valea Lupului Minibus Train Collision,"8, September, 2013","Railway Station In Valea Lupului, Iaşi County  ","Railway Station In Valea Lupului, Iaşi County  ",missing info,11,,,Cause information missing
+2014,Annot Derailment,"8, February, 2014","Between Annot And Saint-Benoît, Alpes-De-Haute-Provence","Between Annot And Saint-Benoît, Alpes-De-Haute-Provence",rockfall,2,,,Other
+2014,Denguin Rail Crash,"17, July, 2014","Denguin, Pyrénées-Atlantiques","Denguin, Pyrénées-Atlantiques",under investigation,Unknows number of deaths,,,Under Investigation
+2014,Katanga Train Derailment,"22, April, 2014",Katongola Bridge ,Katongola Bridge ,driving over speed limit,48,,,Excessive Speed
+2014,Khalilabad Derailment,"26, May, 2014","Sant Kabir Nagar District, Uttar Pradesh","Sant Kabir Nagar District, Uttar Pradesh",missing info,40,,,Cause information missing
+2014,Moscow Metro Derailment,"15, July, 2014",Moscow, 55.73639; 37.51556,missing info,24, 55.73639, 37.51556,Cause information missing
+2014,Naro-Fominsk Rail Crash,"20, May, 2014","Between Bekasovo And Naro-Fominsk, Russia ", 55.384222; 36.768944,under investigation,9, 55.384222, 36.768944,Under Investigation
+2014,O'Hare Station Train Crash,"24, March, 2014",O'Hare Station, 41.98111; -87.90083,operator falling asleep at controls,Unknows number of deaths, 41.98111, -87.90083,Human Error
+2014,Seoul Subway Crash,2014,"Sangwangsimni Station, Seoul Subway Line ","Sangwangsimni Station, Seoul Subway Line ",ats failure,Unknows number of deaths,,,Other
+2014,Tasikmalaya Derailment,"5, April, 2014","Kadipaten, Tasi","Kadipaten, Tasi",missing info,3,,,Cause information missing
+2014,Tiefencastel Derailment,"13, August, 2014","Tiefencastel, Graubünden","Tiefencastel, Graubünden",landslide struck train,1,,,Environmental Cause
+2014,Ukraine Train Bus Collision,"4, February, 2014",Sumy Oblast,Sumy Oblast,missing info,13,,,Cause information missing
+2015,El Fahs Train Accident,"16, June, 2015",El Fahs,El Fahs,no barrier at the level crossing,19,,,Other
+2015,Gujranwala Derailment,"2, July, 2015",Gujranwala,Gujranwala,bridge collapse,19,,,Bridge Failure
+2015,Studénka Train Crash,"22, July, 2015","Studénka, Czech Republic","Studénka, Czech Republic",collision with a truck,3,,,Other
+2015,Aab-E-Gum Derailment,"17, November, 2015","Aab-E-Gum, Balochistan","Aab-E-Gum, Balochistan",under investigation,20,,,Under Investigation
+2015,Anekal Derailment,"13, February, 2015","Anekal, Karnataka", 12.718072; 77.710795,broken rail,10, 12.718072, 77.710795,Track/Rail Error
+2015,Dien Sanh Train Crash,"10, March, 2015","Diên Sanh, Hải Lăng District, Quảng Trị Province","Diên Sanh, Hải Lăng District, Quảng Trị Province",missing info,1,,,Cause information missing
+2015,Eckwersheim Derailment,"14, November, 2015","Eckwersheim, Bas-Rhin", 48.6902; 7.7053,excessive speed on curve due to late braking,11, 48.6902, 7.7053,Excessive Speed
+2015,Halifax Train Crash,"9, March, 2015","Halifax, North Carolina","Halifax, North Carolina",truck had trouble making a turn at the level crossing,Unknows number of deaths,,,Other
+2015,Harda Twin Train Derailment,"4, August, 2015","Kurawan Station, Harda District, Madhya Pradesh, India", 22.22320; 76.93053,trackbed washed away,31, 22.22320, 76.93053,Track/Rail Error
+2015,Ibbenbüren Train Collision,"16, May, 2015","Ibbenbüren, North Rhine-Westphalia","Ibbenbüren, North Rhine-Westphalia",vehicle obstructing line,2,,,Track/Rail Error
+2015,Johannesburg Train Crash,"28, April, 2015","Denver Station, Johannesburg", -26.20583; 28.09694,spad,1, -26.20583, 28.09694,Other
+2015,Mount Carbon Train Derailment,"16, February, 2015","Mount Carbon, West Virginia", 38.1487167; -81.2927972,broken rail,Unknows number of deaths, 38.1487167, -81.2927972,Track/Rail Error
+2015,Oxnard Train Derailment,"24, February, 2015","Oxnard, California", 34.19712; -119.14227,truck driver mistakenly turning onto railroad tracks,1, 34.19712, -119.14227,Track/Rail Error
+2015,Phachi Collision,"26, March, 2015",Phachi District,Phachi District,under investigation,Unknows number of deaths,,,Under Investigation
+2015,Philadelphia Train Derailment,"12, May, 2015","Port Richmond, Philadelphia, Pennsylvania", 40.00167; -75.09361,loss of situational awareness by train engineer,8, 40.00167, -75.09361,Human Error
+2015,Rafz Train Crash,"20, February, 2015",Rafz, 47.6034; 8.5434,under investigation ,Unknows number of deaths, 47.6034, 8.5434,Under Investigation
+2015,Tennessee Train Derailment,"2, July, 2015","Maryville, Tennessee", 35.7608016; -84.02437429999998,overheated journal ,Unknows number of deaths, 35.7608016, -84.02437429999998,Other
+2015,Uttar Pradesh Train Accident,"20, March, 2015","Bachhrawan, Raebareli, Uttar Pradesh","Bachhrawan, Raebareli, Uttar Pradesh",under investigation,58,,,Under Investigation
+2015,Wootton Bassett Rail Incident,"7, March, 2015","Wooton Bassett Junction, Wiltshire", 51.53528; -1.90556,traincrew error,Unknows number of deaths, 51.53528, -1.90556,Other
+2016,Djebel Jelloud Train Accident,"28, December, 2016","Djebel Jelloud, Tunis","Djebel Jelloud, Tunis",the speed of the bus driver,5,,,Excessive Speed
+2016,Eséka Train Derailment,"21, October, 2016","Eséka, Centre Region", 3.64472; 10.77139,under investigation,79, 3.64472, 10.77139,Under Investigation
+2016,Hoboken Train Crash,"29, September, 2016","Hoboken, New Jersey", 40.7349000; -74.0278000,train operators fatigue due to undiagnosed sleep apnea,1, 40.7349000, -74.0278000,Human Error
+2016,Andria–Corato Train Collision,"12, July, 2016","Andria, Apulia", 41.197639; 16.360222,under investigation,23, 41.197639, 16.360222,Under Investigation
+2016,Bad Aibling Rail Accident,"9, February, 2016","Bad Aibling, Bavaria","Bad Aibling, Bavaria",signalmans error,12,,,Signalling Error
+2016,"Chester, Pennsylvania, Train Derailment","3, April, 2016","Chester, Pennsylvania", 39.833056; -75.394472,the train struck a backhoe,2, 39.833056, -75.394472,Other
+2016,Cimarron Train Derailment,"14, March, 2016","Cimarron, Kansas", 37.808598; -100.381975,track displaced by runaway road truck,0, 37.808598, -100.381975,Track/Rail Error
+2016,Croydon Tram Derailment,"9, November, 2016","Close To Sandilands Tram Stop, Croydon, London", 51.3743; -0.0755,excessive speed on curve due to driver error ,7, 51.3743, -0.0755,Excessive Speed
+2016,Dalfsen Train Crash,"23, February, 2016","Dalfsen, Overijssel", 52.50194; 6.32444,vehicle obstructing line at level crossingoperator unable to ascertain whether or not it was safe to cross,1, 52.50194, 6.32444,Track/Rail Error
+2016,Hermalle-Sous-Huy Train Collision,"5, June, 2016","Hermalle-Sous-Huy, Belgium", 50.56111; 5.34361,under investigation,3, 50.56111, 5.34361,Under Investigation
+2016,Hitrino Train Derailment,"10, December, 2016","Hitrino, Shumen Province","Hitrino, Shumen Province",under investigation,7,,,Under Investigation
+2016,Kanpur Train Accident,"28, December, 2016","Kanpur, Uttar Pradesh","Kanpur, Uttar Pradesh",under investigation,Unknows number of deaths,,,Under Investigation
+2016,Karachi Rail Crash,"3, November, 2016",Karachi, 24.8508; 67.2119,wrong signal,21, 24.8508, 67.2119,Signalling Error
+2016,O Porriño Derailment,"9, September, 2016",O Porriño,O Porriño,speeding,4,,,Excessive Speed
+2016,Pukhrayan Train Derailment,"20, November, 2016","Pukhrayan, Uttar Pradesh", 26.23056; 79.84833,under investigation,150, 26.23056, 79.84833,Under Investigation
+2016,Semnan–Damghan Train Collision,"25, November, 2016",Damghan, 35.63333; 54.04278,train collision after a train broke down,49, 35.63333, 54.04278,Other
+2017,Adendro Train Derailment,"13, May, 2017",Adendro,Adendro,excessive speed,3,,,Excessive Speed
+2017,Alexandria Train Collision,"11, August, 2017","Alexandria, Alexandria Governorate","Alexandria, Alexandria Governorate",under investigation,41,,,Under Investigation
+2017,Auraiya Train Derailment,"23, August, 2017","Auraiya, Uttar Pradesh", 26.698743; 79.411477,missing info,Unknows number of deaths, 26.698743, 79.411477,Cause information missing
+2017,Barcelona Train Crash,"28, July, 2017","Barcelona França Railway Station, Barcelona","Barcelona França Railway Station, Barcelona",under investigation,Unknows number of deaths,,,Under Investigation
+2017,Joo Koon Rail Accident,"15, November, 2017",Joo Koon Mrt Station, 1.3277389; 103.6784861,softwarerelated issue,0, 1.3277389, 103.6784861,Other
+2017,Khatauli Train Derailment,"19, August, 2017","Khatauli, Muzaffarnagar, Uttar Pradesh", 29.276; 77.731,missing info,23, 29.276, 77.731,Cause information missing
+2017,Kuneru Train Derailment,"21, January, 2017","Kuneru, Andhra Pradesh", 18.96639; 83.44028,under investigation,41, 18.96639, 83.44028,Under Investigation
+2017,Leuven Derailment,"18, February, 2017",Leuven,Leuven,excessive speed,1,,,Excessive Speed
+2017,Meerbusch Train Crash,"5, December, 2017","Meerbusch, North Rhine-Westphalia","Meerbusch, North Rhine-Westphalia",under investigation,Unknows number of deaths,,,Under Investigation
+2017,Merișor Derailment,"8, April, 2017","Merișor , Bănița, Hunedoara County, Romania", 45.4455750; 23.2352778,brake failure,2, 45.4455750, 23.2352778,Brake Failure/Error
+2017,Morlanwelz Train Collision And Runaway,"27, November, 2017","Morlanwelz, Hainaut, Belgium - Initial Collisionpiéton, Hainaut - Runawaystrépy-Bracquegnies, Hainaut - Second Collision","Morlanwelz, Hainaut, Belgium - Initial Collisionpiéton, Hainaut - Runawaystrépy-Bracquegnies, Hainaut - Second Collision",under investigation,2,,,Under Investigation
+2017,Perpignan Crash,"14, December, 2017","Millas, Arrondissement Of Perpignan, Occitanie", 42.68547; 2.70399,under investigation,6, 42.68547, 2.70399,Under Investigation
+2017,Washington Train Derailment,"18, December, 2017","Dupont, Washington, U.S.", 47.0820; -122.6757,technological error and poor training,3, 47.0820, -122.6757,Other
+2018,Bouknadel Train Derailment,"16, October, 2018",Bouknadel,Bouknadel,missing info,7,,,Cause information missing
+2018,Amritsar Train Disaster,"19, October, 2018","Amritsar, Punjab", 31.63083; 74.89722,trespassing,59, 31.63083, 74.89722,Other
+2018,"Cayce, South Carolina Train Collision","4, February, 2018","Cayce, South Carolina", 33.90861; -81.06750,misaligned switch,2, 33.90861, -81.06750,Other
+2018,Çorlu Train Derailment,"8, July, 2018","Sarılar, Çorlu, Tekirdağ ", 41.1562; 27.6889,missing info,24, 41.1562, 27.6889,Cause information missing
+2018,"Crozet, Virginia Train Crash","31, January, 2018","Crozet, Virginia", 38.0773314; -78.71675,vehicle incursion,1, 38.0773314, -78.71675,Other
+2018,Hennenman–Kroonstad Train Crash,"4, January, 2018",Geneva Station , -27.82194; 27.13444,under investigation,21, -27.82194, 27.13444,Under Investigation
+2018,Lewisham Train Strandings,"2, March, 2018","Lewisham, St Johns And New Cross, London","Lewisham, St Johns And New Cross, London",weather,0,,,Other
+2018,Marşandiz Train Collision,"13, December, 2018","Marşandiz Railway Station, Yenimahalle, Ankara Province", 39.93417; 32.77833,lack of signalling ,9, 39.93417, 32.77833,Signalling Error
+2018,Niklasdorf Train Collision,"12, February, 2018",Niklasdorf,Niklasdorf,under investigation,1,,,Under Investigation
+2018,Oss Rail Accident,"20, September, 2018","Oss, North Brabant", 51.75859; 5.50757,missing info,4, 51.75859, 5.50757,Cause information missing
+2018,Pioltello Train Derailment,"25, January, 2018","Pioltello, Italy", 45.4829; 9.3124,broken rail,3, 45.4829, 9.3124,Track/Rail Error
+2018,Yilan Train Derailment,"21, October, 2018","Xinma Station, Su'Ao, Yilan County ", 24.61583; 121.82333,excessive speed,18, 24.61583, 121.82333,Excessive Speed
+2019,Great Belt Bridge Rail Accident,"2, January, 2019","West Bridge, Great Belt Fixed Link", 55.301190; 10.859880,collision with semitrailer from cargo train,8, 55.301190, 10.859880,Track/Rail Error
+2019,Mondobhag Train Collision,"12, November, 2019","Mondobhag Railway Station, Kasba", 23.6879; 91.1527,spad,16, 23.6879, 91.1527,Other
+2019,Mountain View Train Collision,"8, January, 2019","Mountain View Station, Pretoria","Mountain View Station, Pretoria",missing info,4,,,Cause information missing
+2019,Ramses Station Rail Disaster,"27, February, 2019","Ramses Square, Cairo", 30.06306; 31.24667,missing info,25, 30.06306, 31.24667,Cause information missing
+2019,Sadiqabad Railway Accident,"11, July, 2019","Walhar Railway Station, Rahim Yar Khan, Punjab", 28.2015; 69.9906,missing info,24, 28.2015, 69.9906,Cause information missing
+2019,Seemanchal Express Derailment,"3, February, 2019","Vaishali, Bihar", 25.66111; 85.45500,missing info,6, 25.66111, 85.45500,Cause information missing
+2019,Tezgam Train Fire,"31, October, 2019",Liaquat Pur Railway Station, 29.00722; 70.98889,missing info,75, 29.00722, 70.98889,Cause information missing
+2020,Wallan Derailment,"20, February, 2020","Wallan, Victoria", -37.40417; 145.01833,under investigation,2, -37.40417, 145.01833,Under Investigation
+2020,Aurangabad Railway Accident,"8, May, 2020",, 19.87583; 75.55833,death by impact,16, 19.87583, 75.55833,Other
+2020,Carnate Derailment,"19, August, 2020",Paderno-Robbiate Station Carnate-Usmate Station , 45.65306; 9.37500,under investigation,Unknows number of deaths, 45.65306, 9.37500,Under Investigation
+2020,Ingenheim Derailment,"5, March, 2020","Ingenheim, Bas-Rhin","Ingenheim, Bas-Rhin",landslip,Unknows number of deaths,,,Environmental Cause
+2020,Livraga Derailment,"6, , 2020","Livraga, Lombardy","Livraga, Lombardy",broken rail,2,,,Track/Rail Error
+2020,Llangennech Derailment,"26, August, 2020","Llangennech, Carmarthenshire","Llangennech, Carmarthenshire",defective brakes on a wagon causing axle seizure which led to track deformation under the train,Unknows number of deaths,,,Technical Error
+2020,New York City Subway Fire,"27, March, 2020",Between Th Street And Central Park North–Th Street, 40.7987; -73.9523,arson,1, 40.7987, -73.9523,Other
+2020,Soure Train Crash,"31, July, 2020",Soure, 40.05778; -8.63833,human error ,2, 40.05778, -8.63833,Human Error
+2020,Stonehaven Derailment,"12, August, 2020","Stonehaven, Aberdeenshire", 56.952500; -2.321111,train striking landslip,3, 56.952500, -2.321111,Environmental Cause
+2021,Ghotki Rail Crash,"7, June, 2021","Daharki, Ghotki District, Sindh", 28.07278; 69.84278,missing info,65, 28.07278, 69.84278,Cause information missing
+2021,Hualien Train Derailment,"2, April, 2021","Qingshui Tunnel, Xiulinhualien County", 24.2171; 121.6883,collision with truck that rolled down slope onto track,49, 24.2171, 121.6883,Track/Rail Error
+2021,Kelana Jaya Lrt Collision,"24, May, 2021",Between Kampung Baru Lrt Station And Klcc Lrt Station, 3.16139; 101.70778,human error,Unknows number of deaths, 3.16139, 101.70778,Human Error
+2021,Mexico City Metro Overpass Collapse,"3, May, 2021","Tezonco–Olivos Elevated Interstationtláhuac Avenue, Tláhuac, Mexico City", 19.3049; -99.0613,lack of functional studs and poor welds that led to fatigue in the collapse point,26, 19.3049, -99.0613,Other
+2021,Milavče Train Crash,"4, August, 2021",Milavče, 49.46528; 12.98500,missing info,3, 49.46528, 12.98500,Cause information missing
+2021,Salisbury Rail Crash,"31, October, 2021",Fisherton Tunnel Mi  North East From Salisbury, 51.077556; -1.78556 ,signal passed at danger due to low railhead adhesion,0, 51.077556, -1.78556 ,Track/Rail Error
+2021,Sohag Train Collision,"26, March, 2021","Tahta District, Sohag Governorate", 26.74472; 31.52972,intentional triggering of emergency brakes,18, 26.74472, 31.52972,Brake Failure/Error
+2021,Světec Train Crash,"4, April, 2021","Světec, Ústí Nad Labem Region","Světec, Ústí Nad Labem Region",under investigation ,1,,,Under Investigation
+2021,Toukh Train Accident,"18, April, 2021","Toukh, Qalyubiyya Governorate","Toukh, Qalyubiyya Governorate",missing info,23,,,Cause information missing
