@@ -7,12 +7,12 @@ This project is divided into 4 parts in four notebooks.
 
 **Notebook 1: Webscraping**
 
-⋅⋅* Data Gathering: Crawl all Wikipedia articles on railway accidents, using the corresponding page for 1815 as a starting point: 
+* Data Gathering: Crawl all Wikipedia articles on railway accidents, using the corresponding page for 1815 as a starting point: 
      https://en.wikipedia.org/wiki/Category:Railway_accidents_in_1815
      
-⋅⋅* Find a strategy to exclude articles that do not directly refer to accidents.
+* Find a strategy to exclude articles that do not directly refer to accidents.
 
-⋅⋅* Data Storage: Store the retrieved information in a CSV file. For each railway accident 
+* Data Storage: Store the retrieved information in a CSV file. For each railway accident 
      store the following information in columns: 
        - Date
        - Location
@@ -24,17 +24,17 @@ This project is divided into 4 parts in four notebooks.
        
 **Notebook 2: Cleaning data**
 
-⋅⋅* Cleaning all the data scraped from the first notebook. Every column is handled one by one to ensure the data is ready for the visualisation
+* Cleaning all the data scraped from the first notebook. Every column is handled one by one to ensure the data is ready for the visualisation
 
 
 **Notebook 3: Enriching data**
 
-⋅⋅* Add coordinates to train accidents that has location information but is missing coordinates 
+* Add coordinates to train accidents that has location information but is missing coordinates 
 
 
 **Notebook 4: Visualising data**
 
-⋅⋅* Data Analysis and User Interface: Create a graphical user interface with Dash/Plotly that supports the following functionalities:
+* Data Analysis and User Interface: Create a graphical user interface with Dash/Plotly that supports the following functionalities:
      - plot all accidents on a map with one dot per incident and a color that indicates the instrument category
      - count the numbers of deaths through railway accidents per decade and 
      - generate a time-based line chart that shows the temporal development
