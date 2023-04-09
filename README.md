@@ -12,13 +12,12 @@ This project is divided into 4 parts in four notebooks.
      
 * Find a strategy to exclude articles that do not directly refer to accidents.
 
-* Data Storage: Store the retrieved information in a CSV file. For each railway accident 
-     store the following information in columns: 
-       - Date
-       - Location
-       - Coordinates (if available)
-       - Cause
-       - Number of deaths
+* Data Storage: Store the retrieved information in a CSV file. For each railway accident I store the following information in columns: 
+     - Date
+     - Location
+     - Coordinates (if available)
+     - Cause
+     - Number of deaths
        
        
        
