@@ -1,0 +1,592 @@
+hot box causing axle to break
+missing info
+inadequately secured load
+line obstructed 
+broken axle
+axle failure
+bridge fail
+unprotected train 
+human error
+signal passed at danger
+missing info
+disputed
+human error
+human error
+human error
+error by the chief conductorand the driver of stoptrein 
+signal passed at danger
+bridge collapse
+train divided
+blocked culvert
+signal passed at danger
+signallers error
+signalling error
+points maintenance error
+signal passed at danger
+dispatcher error
+signal passed at danger
+derailment due to excessive speed
+engineering possession error
+guard failed to protect the train
+poor track condition
+points incorrectly set
+runaway goods wagons
+fractured axel
+wheel failure
+broken axle
+failure to secure standing wagons
+signalling error
+derailment caused by intoxicated fireman
+missing info
+shunting took place without signalmans authority
+derailment due to excessive speed
+signallers error
+rolling stock failure
+singleline telegraphic working error
+missing info
+wrongside failure 
+bridge collapse
+singleline telegraphic working error
+structural failure
+human error
+extreme wind gusts
+excessive speed over junction
+bridge collapse
+washaway
+fatigue crack
+air brakes were released
+inconclusive
+axle failure
+axle failure
+bridge collapse
+drivers error
+inconclusive combination of speeding
+signal passed at danger
+missing info
+runaway 
+axle failure
+signalling error
+crew error
+bridge collapse
+signalling error 
+signals obscureddefective signalling procedure
+locomotive suspension failure
+a highsided wagon was moved by the wind in the path of others
+sabotage
+missing info
+engineer error
+excessive speed
+goods train derailment
+derailment due to movement of points
+excessive speed  inadequate brakes and signals
+washout of trestle bridge due to heavy rain
+signal passed at danger
+wrong set railroad switch
+debris on track
+signal failure
+failure to relay orders
+drivers error incomplete route knowledge
+excessive speed on sharp curve
+excessive speed
+engineer error
+unknown
+rearend collision due to points failure
+points maintenance error
+overspeed on curve
+draw  bridge locking failure
+driver error 
+drivers error
+signal passed at danger
+brake failure
+roadbed failure
+signallers error
+drivers error
+brake failure
+signal passed at danger due to brake failure on bendigo train
+missing info
+undetermined
+signalling error
+missing info
+missing info
+missing info
+missing order to stop
+signalling error
+signal passed at danger
+driver misread signals
+drivers error
+heatstressed rails
+wet leaves on the line
+bridge collapse
+missing info
+signal passed at danger
+brake failure
+signalling error
+signalmans error
+detached coupling rod
+detached coupling rod
+signal passed at danger
+passengers misunderstanding of operating rules
+brake failure
+due to heat the rails was expanded
+very steep slope of the railway line
+failure to protect train
+landslide
+human error
+engineer falling asleep
+line obstructed 
+excessive speed around curve
+embankment collapse
+misreading of train orders
+missing info
+ignoring signal
+singleline token error
+cloudburst
+struck landslip in which was embedded a large boulder
+locomotive failure
+debris on grade crossing
+runaway vehicles from goods train
+derailment fouled line
+overloaded train 
+signallers error
+derailment of locomotive
+drivers error
+drivers error
+failure of signalman to comply with rules
+undermined track
+signalling error
+signalling error
+extreme wind gusts
+extreme wind gusts
+burnt out bridge
+signallers error
+signalman error
+cloudburst
+sabotage
+signal passed at danger and signallers error
+signal passed at danger
+failure to obey orders due to carbon monoxide poisoning
+excessive speed on sharp curve
+signal passed at danger
+overheated journal box caused axle to break
+excessive speed
+train on track without authority
+signal passed at danger
+signal passed at danger
+excessive weight
+ammunition explosion
+broken rail
+brake failure
+excessive speed
+driver error
+mishandling of engine by driver
+failure to protect lead train
+missing info
+points failure
+failure of second train to follow signal
+derailment due to movement of points
+signalmans error
+excessive speed
+obstruction on line
+disregard of train orders
+drivers error
+excessive speed
+signalman error
+sabotage
+words omitted from order to troop train
+runaway freight wagons
+signal passed at danger
+signal passed at danger
+poor track maintenance
+stalled vehicle
+excess speed
+overhead wire maintenance error
+detached coupling rod
+detached coupling rod
+excessive speed
+broken rail
+missing info
+signal passed at danger
+bombing
+signal passed at danger
+improperly secured load
+braking failure
+missing info
+driver error
+wrongside failure
+bridge collapse due to lahar from mount ruapehu
+embankment collapse
+signalling error
+drivers error
+signal passed at danger
+overspeed on curve
+excessive speed
+signal error
+signal passed at danger
+lack of signalsallowing two trains into same occupied block section
+missing info
+signal passed at danger
+signalling error
+allowing two trains into same occupied block section by signalmen
+signal passed at danger
+drivers error
+drivers error
+signalling error
+disconnected connecting rod assembly
+missing info
+ignoring temporary speed limit
+derailment and rupture of the coupling
+signaller error
+speeding through construction zone
+signal passed at danger
+signal passed at danger
+signal passed at danger
+overspeed on curve
+signal passed at danger
+crossing operator error
+missing info
+bus driver negligence
+signallers error
+track problems
+points failure
+overspeed on incline
+missing info
+missing info
+rolling stock failure
+signalling error 
+broken rail
+gate left open
+shunting error
+signalman error
+driver error 
+defective track
+driver heart attack
+signaller error
+failure to protect stopped train
+missing info
+not determined
+missing info
+mechanical problem
+failure to connect vacuum brake pipes to the locomotive
+train backed into signal block
+driver was intoxicated
+bus drivers failure to yield at a grade crossing
+unlocked battery box
+excessive speed
+excessive speed
+driver failed to stop
+overspeed on temporary trackdriver error
+collision with a cargo train
+error by the chief conductorand the driver of stoptrein 
+driver error
+poor track maintenance
+missing info
+obstructed electric heater
+tank car boiling liquid expanding vapor explosion  two days following a derailment
+changing a switch erroneously due to confusion of switchman
+signal passed at danger
+overheated journal bearing
+missing info
+signal passed at danger
+express sent into sidings as points not interlocked
+freight train driver error
+missing info
+mudslide
+points failure
+signal passed at danger
+signaller incorrectly authorised driver to pass signal at danger
+brake failure
+operator error
+signalling error
+drivers error
+obstruction on line
+defective track
+signal passed at danger
+missing info
+drivers error
+ locomotive engineer
+negligence
+human error
+bridge swept away
+brake failure
+engineer error
+high speed
+missing info
+unprotected wrongside failure
+missing info
+disabling of braking system caused by driver error
+unknown
+failure of train crew to set brakes properly
+signal passed at danger
+signal passed at danger
+train derailment train weight miscalculated and several locomotives with inoperative dynamic brakespipeline rupture undetected damage to pipeline during cleanup
+missing info
+missing info
+excessive speed
+signaling fault
+missing info
+incorrectly set points
+signal fault
+missing info
+drivers error
+spad
+axle counter failure or driver error
+signal passed at danger
+intoxication
+high speed due to insufficient communication with operator
+signal passed at danger
+defective track
+missing info
+barge collision with bridge 
+oil spill leading to reduced braking power
+spad caused by driver error
+vandalism
+defective track
+line obstructed by landslide
+missing info
+bus driver misjudgementtraffic signal timing
+spad whilst departing
+missing info
+passenger negligence
+operator error
+driver failed to stop at a signal because he was asleep
+brake failure
+signal passed at danger due to color blindness of train engineer
+axle failure
+missing info
+signal passed at danger
+excessive speed
+signal passed at danger due to driver error of the marc train
+signal passed at danger
+missing info
+signal passed at danger
+wheel disintegration
+removal of fishplates
+excessive speed
+broken rail
+misinterpretation of signals
+spad due to human error
+train struck maintenance equipment left on tracks by rail workers
+vehicle incursion
+signalling error
+signal passed at danger
+spad due to human error
+signal passed at danger caused by driver error
+driver error
+missing info
+missing info
+misinterpretation of debatable signalling
+broken rail
+broken rail
+missing info
+missing info
+obstruction on line
+tampered switch
+exploding gas cylinder
+failure to promptly investigate suspected track damage
+missing info
+missing info
+joint fatigue
+collision with car on tracks
+derailment due to movement of points
+missing info
+driver error
+human error
+signaling miscommunication
+driver lost consciousness due to a myocardial infarction
+ chetsu earthquake
+tsunami
+excessive speed
+missing info
+runaway rail cars
+truck stopped at level crossing
+brake failure as result of gross negligence
+obstruction on line
+incorrectly set pointssignal malfunction
+speeding
+overspeed on curve arising from harsh penalties for lateness
+landslide following severe weather
+intentional obstruction of line
+incorrectly aligned railroad switch
+missing info
+braking system failure
+missing info
+human error
+missing info
+missing info
+human error  traffic controllers
+brake failure
+missing info
+defective points due to poor maintenance and inspection procedures
+truck driver error
+derailment
+collapsed bridge
+signal passed at danger
+speeding and derailment
+rail fracture due to frost
+microsleep episode caused by sleep apnea
+train control error
+under investigation
+missing info
+missing info
+suspected spad
+crew error train leaving station on singletrack line without permission
+under investigation
+missing info
+terrorist act
+excessive speed caused by braking failure
+missing info
+defective axle
+track circuit malfunction
+red signal overshot
+signal passed at danger
+reduced visibility from heavy rain storm
+missing info
+missing info
+collision with debris following a landslide
+missing info
+earlier landslide damaged rails
+running of a red signal
+line obstructed by road vehicle
+violation of traffic rules
+obstruction on line 
+human error
+missing info
+missing info
+runaway
+crack in a wheel of the first carriage
+excessive speed
+missing info
+human error
+disputedoverspeed caused by driver signal fault 
+missing info
+missing info
+bus driver ignored level crossing warning signals
+missing info
+railway signal failure
+undetermined
+excessive speed on crossover
+motorman error
+missing info
+human error
+under investigation
+missing info
+missing info
+under investigation
+pilot error
+suspected spad
+train dispatcher error
+human error
+sleeping at the controls
+speeding
+missing info
+missing info
+human error
+missing info
+missing info
+track defect
+to the driver of 
+missing info
+broken joint bars
+driver error  spad
+missing info
+excessive track gauge
+neglect
+overspeed on curve
+missing info
+rockfall
+under investigation
+driving over speed limit
+missing info
+missing info
+under investigation
+operator falling asleep at controls
+ats failure
+missing info
+landslide struck train
+missing info
+no barrier at the level crossing
+bridge collapse
+collision with a truck
+under investigation
+broken rail
+missing info
+excessive speed on curve due to late braking
+truck had trouble making a turn at the level crossing
+trackbed washed away
+vehicle obstructing line
+spad
+broken rail
+truck driver mistakenly turning onto railroad tracks
+under investigation
+loss of situational awareness by train engineer
+under investigation 
+overheated journal 
+under investigation
+traincrew error mishandling of aws and braking system on train
+the speed of the bus driver
+under investigation
+train operators fatigue due to undiagnosed sleep apnea
+under investigation
+signalmans error
+the train struck a backhoe
+track displaced by runaway road truck
+excessive speed on curve due to driver error 
+vehicle obstructing line at level crossingoperator unable to ascertain whether or not it was safe to cross
+under investigation
+under investigation
+under investigation
+wrong signal
+speeding
+under investigation
+train collision after a train broke down
+excessive speed
+under investigation
+missing info
+under investigation
+softwarerelated issue
+missing info
+under investigation
+excessive speed
+under investigation
+brake failure
+under investigation
+under investigation
+technological error and poor training
+missing info
+trespassing
+misaligned switch
+missing info
+vehicle incursion
+under investigation
+weather
+lack of signalling 
+under investigation
+missing info
+broken rail
+excessive speed
+collision with semitrailer from cargo train
+spad
+missing info
+missing info
+missing info
+missing info
+missing info
+under investigation
+death by impact
+under investigation
+derailment
+landslip
+under investigation
+defective brakes on a wagon causing axle seizure which led to track deformation under the train
+arson
+human error 
+train striking landslip
+missing info
+collision with truck that rolled down slope onto track
+human error
+lack of functional studs and poor welds that led to fatigue in the collapse point
+missing info
+signal passed at danger due to low railhead adhesion
+intentional triggering of emergency brakes
+under investigation 
+missing info
