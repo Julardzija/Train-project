@@ -5,7 +5,8 @@ This project is divided into 4 parts in four notebooks.
 
 ## Objective for each notebook
 
-**Notebook 1: Webscraping**
+**Notebook 1: Webscraping** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/1WebscrapingTrainAccidents.ipynb)
+
 
 * Data Gathering: Crawl all Wikipedia articles on railway accidents, using the corresponding page for 1815 as a starting point: 
      https://en.wikipedia.org/wiki/Category:Railway_accidents_in_1815
@@ -21,17 +22,20 @@ This project is divided into 4 parts in four notebooks.
        
        
        
-**Notebook 2: Cleaning data**
+**Notebook 2: Cleaning data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/2CleaningData.ipynb)
+
 
 * Cleaning all the data scraped from the first notebook. Every column is handled one by one to ensure the data is ready for the visualisation
 
 
-**Notebook 3: Enriching data**
+**Notebook 3: Enriching data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/3EnrichData.ipynb)
+
 
 * Add coordinates to train accidents that has location information but is missing coordinates 
 
 
-**Notebook 4: Visualising data**
+**Notebook 4: Visualising data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/4VisualisingTrainAccidents.ipynb)
+
 
 * Data Analysis and User Interface: Create a graphical user interface with Dash/Plotly that supports the following functionalities:
      - plot all accidents on a map with one dot per incident and a color that indicates the instrument category
@@ -47,10 +51,6 @@ This was an exam project in the course "Programming for Data Science" where we h
 
 You can open my code by clicking on the URL: 
 
-[Google Colab for part 1](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/1WebscrapingTrainAccidents.ipynb)
 
-[Google Colab for part 2](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/2CleaningData.ipynb)
 
-[Google Colab for part 3](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/3EnrichData.ipynb)
 
-[Google Colab for part 4](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/4VisualisingTrainAccidents.ipynb)
