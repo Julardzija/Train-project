@@ -3,9 +3,14 @@
 This project is divided into 4 parts in four notebooks.
 
 **Notebook 1: Webscraping**
+
 **Notebook 2: Cleaning data**
+
 **Notebook 3: Enriching data**
+
 **Notebook 4: Visualising data**
+
+
 
 ## Objective for this project
 1. Data Gathering: Crawl all Wikipedia articles on railway accidents,
@@ -20,9 +25,13 @@ This project is divided into 4 parts in four notebooks.
        - Location
        - Coordinates (if available)
        - Cause
-      - Number of deaths
+       - Number of deaths
 
+Part 2: Cleaning Data
 
+Objective for this notebook:
+     1. Data cleaning: This code is cleaning all the data scraped from the first part, 
+     going through every column one by one and ensuring we have proper data for the visualisation
 
 You can open my code by clicking on the URL: 
 
