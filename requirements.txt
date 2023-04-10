@@ -4,11 +4,7 @@ jupyter-dash==0.4.0
 notebook==6.4.5
 numpy
 matplotlib==3.*
-seaborn==0.10.1
 pandas
 plotly
-BeautifulSoup
-requests
-tqdm
-re
+
 
