@@ -5,7 +5,7 @@ This project is divided into 4 parts in four notebooks.
 
 ## Objective for each notebook
 
-**Notebook 1: Webscraping** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/1WebscrapingTrainAccidents.ipynb)
+**Notebook 1: Webscraping** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/1WebscrapingTrainAccidents.ipynb)
 
 
 * Data Gathering: Crawl all Wikipedia articles on railway accidents, using the corresponding page for 1815 as a starting point: 
@@ -22,13 +22,13 @@ This project is divided into 4 parts in four notebooks.
        
        
        
-**Notebook 2: Cleaning data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/2CleaningData.ipynb)
+**Notebook 2: Cleaning data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/2CleaningData.ipynb)
 
 
 * Cleaning all the data scraped from the first notebook. Every column is handled one by one to ensure the data is ready for the visualisation
 
 
-**Notebook 3: Enriching data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/3EnrichData.ipynb)
+**Notebook 3: Enriching data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/3EnrichData.ipynb)
 
 
 * Add coordinates to train accidents that has location information but is missing coordinates 
