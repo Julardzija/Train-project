@@ -45,8 +45,5 @@ This project is divided into 4 parts in four notebooks.
 This was an exam project in the course "Programming for Data Science" where we had to show and present the final results in an oral exam.
 
 
-You can open my code by clicking on the URL: 
-
-
 
 
