@@ -22,18 +22,15 @@ This project is divided into 4 parts in four notebooks.
      - Number of deaths
        
        
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/2CleaningData.ipynb)       
-**Notebook 2: Cleaning data**
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/2CleaningData.ipynb) **Notebook 2: Cleaning data**
 
 * Cleaning all the data scraped from the first notebook. Every column is handled one by one to ensure the data is ready for the visualisation
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/3EnrichData.ipynb)
-**Notebook 3: Enriching data**
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/3EnrichData.ipynb) **Notebook 3: Enriching data**
 
 * Add coordinates to train accidents that has location information but is missing coordinates 
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/4VisualisingTrainAccidents.ipynb)
-**Notebook 4: Visualising data** 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/4VisualisingTrainAccidents.ipynb) **Notebook 4: Visualising data** 
 
 
 * Data Analysis and User Interface: Create a graphical user interface with Dash/Plotly that supports the following functionalities:
