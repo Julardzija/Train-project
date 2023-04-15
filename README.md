@@ -5,7 +5,8 @@ This project is divided into 4 parts in four notebooks.
 
 ## Objective for each notebook
 
-**Notebook 1: Webscraping** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/1WebscrapingTrainAccidents.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/1WebscrapingTrainAccidents.ipynb)
+**Notebook 1: Webscraping** 
 
 
 * Data Gathering: Crawl all Wikipedia articles on railway accidents, using the corresponding page for 1815 as a starting point: 
@@ -21,20 +22,18 @@ This project is divided into 4 parts in four notebooks.
      - Number of deaths
        
        
-       
-**Notebook 2: Cleaning data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/2CleaningData.ipynb)
-
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/2CleaningData.ipynb)       
+**Notebook 2: Cleaning data**
 
 * Cleaning all the data scraped from the first notebook. Every column is handled one by one to ensure the data is ready for the visualisation
 
-
-**Notebook 3: Enriching data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/3EnrichData.ipynb)
-
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/3EnrichData.ipynb)
+**Notebook 3: Enriching data**
 
 * Add coordinates to train accidents that has location information but is missing coordinates 
 
-
-**Notebook 4: Visualising data** [Open in Google Colab](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/4VisualisingTrainAccidents.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Julardzija/Train-project/blob/main/Notebooks/4VisualisingTrainAccidents.ipynb)
+**Notebook 4: Visualising data** 
 
 
 * Data Analysis and User Interface: Create a graphical user interface with Dash/Plotly that supports the following functionalities:
