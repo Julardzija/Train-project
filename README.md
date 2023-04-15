@@ -46,7 +46,7 @@ This was an exam project in the course "Programming for Data Science" where we h
 
 ** NOTE ** As the last notebook contains Dash (which has issues running in Google Colab), I have instead screenshot the user interface. In order to test the UI on your own computer, you need to download DataForVisualising.csv file and the run the last notebook in another IDE other than Google Colab
 
-![Front page](Images/my-image.png)
+![Front page](Images/Train\ accidents\ -\ dash\ UI\ 2.jpg)
 
 
 
