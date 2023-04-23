@@ -1,6 +1,6 @@
 # Webscraping train accidents from Wikipedia
 
-The aim for this project was to webscrape all train accident articles from Wikipedia, and then create visualisation and a user interface with Dash and Plotly. 
+The aim for this project was to webscrape all train accident articles from Wikipedia, and then create an interactive visualisation with Dash and Plotly. 
 This project is divided into 4 parts in four notebooks.
 
 ## Objective for each notebook
@@ -45,9 +45,11 @@ This project is divided into 4 parts in four notebooks.
 This was an exam project in the course "Programming for Data Science" where we had to show and present the final results in an oral exam.
 
 **NOTE** 
-As the last notebook contains Dash (which has issues running in Google Colab), I have instead screenshot the user interface. In order to test the UI on your own computer, you need to download DataForVisualising.csv file and the run the last notebook in another IDE other than Google Colab
+As the last notebook contains Dash (which has issues running in Google Colab), I have instead taken screenshots of the user interface. In order to test the UI on your own computer, you need to download DataForVisualising.csv file and the run the last notebook in another IDE other than Google Colab
 
+The first screenshot is of a world map with all train accidents pinned to their location. When hovering over the spot, it shows further information of that train accident.
 ![UI all accidents on world map with info](Images/Train%20accidents%20-%20dash%20UI.jpg)
+This is a line chart based on deaths per decade. 
 ![UI line chart - death per decade](Images/Train%20accidents%20-%20dash%20UI%202.jpg)
 ![UI word cloud](Images/Train%20accidents%20-%20dash%20UI%203.jpg)
 
